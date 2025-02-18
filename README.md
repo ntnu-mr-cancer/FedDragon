@@ -1,6 +1,6 @@
 # DRAGON RoBERTa Large Domain-specific V2 Algorithm
 
-Adaptation of [DRAGON baseline](https://github.com/DIAGNijmegen/dragon_baseline) (version `0.2.1`), with pretrained foundational model `joeranbosma/dragon-roberta-large-domain-specific`.
+Adaptation of [DRAGON baseline](https://github.com/DIAGNijmegen/dragon_baseline) (version `0.4.0`), with pretrained foundational model `joeranbosma/dragon-roberta-large-domain-specific`.
 
 For details on the pretrained foundational model, check out HuggingFace: [huggingface.co/joeranbosma/dragon-roberta-large-domain-specific](https://huggingface.co/joeranbosma/dragon-roberta-large-domain-specific).
 
