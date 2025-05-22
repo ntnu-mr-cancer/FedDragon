@@ -110,3 +110,5 @@ ENV/
 # Custom
 .DS_Store
 *.tar.gz
+/scripts
+/notebooks

@@ -1,6 +1,6 @@
 [
   {
-    "uid":"Task108_case2",
+    "uid":"Task108_Example_sl_ner_case2",
     "text_parts":[
       "Patient",
       "presents",
@@ -144,10 +144,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case3",
+    "uid":"Task108_Example_sl_ner_case3",
     "text_parts":[
       "Case",
       "involves",
@@ -363,10 +364,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case5",
+    "uid":"Task108_Example_sl_ner_case5",
     "text_parts":[
       "Subject",
       "describes",
@@ -594,10 +596,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case8",
+    "uid":"Task108_Example_sl_ner_case8",
     "text_parts":[
       "Subject",
       "describes",
@@ -761,10 +764,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case11",
+    "uid":"Task108_Example_sl_ner_case11",
     "text_parts":[
       "Individual",
       "reports",
@@ -966,10 +970,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case13",
+    "uid":"Task108_Example_sl_ner_case13",
     "text_parts":[
       "Case",
       "involves",
@@ -1161,10 +1166,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case17",
+    "uid":"Task108_Example_sl_ner_case17",
     "text_parts":[
       "Subject",
       "describes",
@@ -1348,10 +1354,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case20",
+    "uid":"Task108_Example_sl_ner_case20",
     "text_parts":[
       "Subject",
       "describes",
@@ -2353,10 +2360,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case21",
+    "uid":"Task108_Example_sl_ner_case21",
     "text_parts":[
       "Individual",
       "reports",
@@ -2464,10 +2472,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case23",
+    "uid":"Task108_Example_sl_ner_case23",
     "text_parts":[
       "Subject",
       "describes",
@@ -2647,10 +2656,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case24",
+    "uid":"Task108_Example_sl_ner_case24",
     "text_parts":[
       "Case",
       "involves",
@@ -2758,10 +2768,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case25",
+    "uid":"Task108_Example_sl_ner_case25",
     "text_parts":[
       "Patient",
       "presents",
@@ -2971,10 +2982,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case28",
+    "uid":"Task108_Example_sl_ner_case28",
     "text_parts":[
       "Individual",
       "reports",
@@ -3068,10 +3080,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case29",
+    "uid":"Task108_Example_sl_ner_case29",
     "text_parts":[
       "Individual",
       "reports",
@@ -3199,10 +3212,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case32",
+    "uid":"Task108_Example_sl_ner_case32",
     "text_parts":[
       "Subject",
       "describes",
@@ -3408,10 +3422,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case35",
+    "uid":"Task108_Example_sl_ner_case35",
     "text_parts":[
       "Individual",
       "reports",
@@ -3505,10 +3520,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case36",
+    "uid":"Task108_Example_sl_ner_case36",
     "text_parts":[
       "Individual",
       "reports",
@@ -3742,10 +3758,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case37",
+    "uid":"Task108_Example_sl_ner_case37",
     "text_parts":[
       "Subject",
       "describes",
@@ -3915,10 +3932,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case38",
+    "uid":"Task108_Example_sl_ner_case38",
     "text_parts":[
       "Individual",
       "reports",
@@ -4072,10 +4090,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case41",
+    "uid":"Task108_Example_sl_ner_case41",
     "text_parts":[
       "Patient",
       "presents",
@@ -4183,10 +4202,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case43",
+    "uid":"Task108_Example_sl_ner_case43",
     "text_parts":[
       "Patient",
       "presents",
@@ -4462,10 +4482,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case46",
+    "uid":"Task108_Example_sl_ner_case46",
     "text_parts":[
       "Individual",
       "reports",
@@ -4701,10 +4722,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case47",
+    "uid":"Task108_Example_sl_ner_case47",
     "text_parts":[
       "Subject",
       "describes",
@@ -4848,10 +4870,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case49",
+    "uid":"Task108_Example_sl_ner_case49",
     "text_parts":[
       "Case",
       "involves",
@@ -5035,10 +5058,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case51",
+    "uid":"Task108_Example_sl_ner_case51",
     "text_parts":[
       "Case",
       "involves",
@@ -5264,10 +5288,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case52",
+    "uid":"Task108_Example_sl_ner_case52",
     "text_parts":[
       "Individual",
       "reports",
@@ -5467,10 +5492,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case54",
+    "uid":"Task108_Example_sl_ner_case54",
     "text_parts":[
       "Subject",
       "describes",
@@ -5568,10 +5594,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case56",
+    "uid":"Task108_Example_sl_ner_case56",
     "text_parts":[
       "Individual",
       "reports",
@@ -5805,10 +5832,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case57",
+    "uid":"Task108_Example_sl_ner_case57",
     "text_parts":[
       "Subject",
       "describes",
@@ -5938,10 +5966,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case58",
+    "uid":"Task108_Example_sl_ner_case58",
     "text_parts":[
       "Subject",
       "describes",
@@ -6087,10 +6116,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case59",
+    "uid":"Task108_Example_sl_ner_case59",
     "text_parts":[
       "Individual",
       "reports",
@@ -6258,10 +6288,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case60",
+    "uid":"Task108_Example_sl_ner_case60",
     "text_parts":[
       "Individual",
       "reports",
@@ -7289,10 +7320,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case61",
+    "uid":"Task108_Example_sl_ner_case61",
     "text_parts":[
       "Subject",
       "describes",
@@ -7422,10 +7454,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case62",
+    "uid":"Task108_Example_sl_ner_case62",
     "text_parts":[
       "Case",
       "involves",
@@ -7567,10 +7600,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case63",
+    "uid":"Task108_Example_sl_ner_case63",
     "text_parts":[
       "Patient",
       "presents",
@@ -7680,10 +7714,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case65",
+    "uid":"Task108_Example_sl_ner_case65",
     "text_parts":[
       "Case",
       "involves",
@@ -7881,10 +7916,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case66",
+    "uid":"Task108_Example_sl_ner_case66",
     "text_parts":[
       "Patient",
       "presents",
@@ -8154,10 +8190,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case67",
+    "uid":"Task108_Example_sl_ner_case67",
     "text_parts":[
       "Subject",
       "describes",
@@ -8357,10 +8394,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case71",
+    "uid":"Task108_Example_sl_ner_case71",
     "text_parts":[
       "Subject",
       "describes",
@@ -8578,10 +8616,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case74",
+    "uid":"Task108_Example_sl_ner_case74",
     "text_parts":[
       "Case",
       "involves",
@@ -8731,10 +8770,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case75",
+    "uid":"Task108_Example_sl_ner_case75",
     "text_parts":[
       "Patient",
       "presents",
@@ -8978,10 +9018,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case78",
+    "uid":"Task108_Example_sl_ner_case78",
     "text_parts":[
       "Individual",
       "reports",
@@ -9161,10 +9202,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case81",
+    "uid":"Task108_Example_sl_ner_case81",
     "text_parts":[
       "Subject",
       "describes",
@@ -9304,10 +9346,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case82",
+    "uid":"Task108_Example_sl_ner_case82",
     "text_parts":[
       "Subject",
       "describes",
@@ -9493,10 +9536,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case84",
+    "uid":"Task108_Example_sl_ner_case84",
     "text_parts":[
       "Case",
       "involves",
@@ -9666,10 +9710,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case85",
+    "uid":"Task108_Example_sl_ner_case85",
     "text_parts":[
       "Case",
       "involves",
@@ -9811,10 +9856,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case86",
+    "uid":"Task108_Example_sl_ner_case86",
     "text_parts":[
       "Patient",
       "presents",
@@ -9976,10 +10022,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case87",
+    "uid":"Task108_Example_sl_ner_case87",
     "text_parts":[
       "Case",
       "involves",
@@ -10167,10 +10214,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case89",
+    "uid":"Task108_Example_sl_ner_case89",
     "text_parts":[
       "Subject",
       "describes",
@@ -10356,10 +10404,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case91",
+    "uid":"Task108_Example_sl_ner_case91",
     "text_parts":[
       "Case",
       "involves",
@@ -10513,10 +10562,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case92",
+    "uid":"Task108_Example_sl_ner_case92",
     "text_parts":[
       "Case",
       "involves",
@@ -10698,10 +10748,11 @@
       "B-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case93",
+    "uid":"Task108_Example_sl_ner_case93",
     "text_parts":[
       "Individual",
       "reports",
@@ -10817,10 +10868,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case94",
+    "uid":"Task108_Example_sl_ner_case94",
     "text_parts":[
       "Subject",
       "describes",
@@ -10960,10 +11012,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case95",
+    "uid":"Task108_Example_sl_ner_case95",
     "text_parts":[
       "Case",
       "involves",
@@ -11093,10 +11146,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task108_case98",
+    "uid":"Task108_Example_sl_ner_case98",
     "text_parts":[
       "Case",
       "involves",
@@ -11322,10 +11376,11 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task108_case99",
+    "uid":"Task108_Example_sl_ner_case99",
     "text_parts":[
       "Individual",
       "reports",
@@ -11551,6 +11606,7 @@
       "I-NOTE",
       "I-NOTE",
       "I-NOTE"
-    ]
+    ],
+    "center":"1"
   }
 ]

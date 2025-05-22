@@ -1,0 +1,24 @@
+{
+  "federation_config": {
+    "num_rounds": 5
+  },
+  "model_kwargs": {
+    "model_name_or_path": "joeranbosma/dragon-bert-base-mixed-domain",
+    "per_device_train_batch_size": 4,
+    "gradient_accumulation_steps": 2,
+    "gradient_checkpointing": false,
+    "max_seq_length": 512,
+    "learning_rate": 5e-05,
+    "lr_scheduler_type": "constant",
+    "save_total_limit": 1,
+    "warmup_ratio": 0,
+    "num_train_epochs": 3,
+    "disable_tqdm": true
+  },
+  "backend_config": {
+    "client_resources": {
+      "num_cpus": 8,
+      "num_gpus": 1.0
+    }
+  }
+}

@@ -1,6 +1,6 @@
 [
   {
-    "uid":"Task107_case2",
+    "uid":"Task107_Example_ml_reg_case2",
     "text":"Patient presents with shortness of breath, likely viral infection. I: Subject describes normal of 7.1mm. II: Individual reports lesion of 6.1mm. III: Case involves normal of 12mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       7.0,
@@ -8,10 +8,11 @@
       12.0,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case3",
+    "uid":"Task107_Example_ml_reg_case3",
     "text":"Case involves mild to moderate chest pain, possible bacterial infection. I: Subject describes lesion of 12 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       12.0,
@@ -19,10 +20,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case10",
+    "uid":"Task107_Example_ml_reg_case10",
     "text":"Individual reports shortness of breath, symptoms of seasonal allergies. I: Individual reports normal of 10mm. II: Subject describes lesion of 6.0mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       10.0,
@@ -30,10 +32,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case12",
+    "uid":"Task107_Example_ml_reg_case12",
     "text":"Subject describes intermittent fever, potential thyroid disorder. I: Patient presents with normal of 1.3 cm. II: Individual reports lesion of 15mm. III: Subject describes other structure of size 17 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       13.0,
@@ -41,10 +44,11 @@
       17.0,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case25",
+    "uid":"Task107_Example_ml_reg_case25",
     "text":"Patient presents with sudden weight loss, early signs of diabetes. I: Individual reports lesion of 5.9mm. II: Subject describes lesion of 8.6mm. III: Individual reports normal of 13mm. IV: Case involves lesion of 17mm. V: Patient presents with normal of 13 cm. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Schedule follow-up in two weeks. Suggest dietary changes. Suggest dietary changes. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Recommend further testing. Schedule follow-up in two weeks. Advise regular exercise. Prescribe rest and over-the-counter medication. Recommend further testing. Suggest dietary changes. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Recommend further testing. Advise regular exercise. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Recommend further testing. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Suggest dietary changes. Recommend further testing. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Advise regular exercise. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise regular exercise. Suggest dietary changes. Suggest dietary changes. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication.",
     "multi_label_regression_target":[
       6.0,
@@ -52,10 +56,11 @@
       13.0,
       17.0,
       130.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case27",
+    "uid":"Task107_Example_ml_reg_case27",
     "text":"Subject describes mild to moderate chest pain, likely viral infection. I: Subject describes other structure of size 8.3cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       83.0,
@@ -63,10 +68,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case36",
+    "uid":"Task107_Example_ml_reg_case36",
     "text":"Individual reports persistent cough, likely viral infection. I: Patient presents with lesion of 16 mm. II: Individual reports normal of 16cm. III: Individual reports normal of 4.7mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       16.0,
@@ -74,10 +80,11 @@
       5.0,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case37",
+    "uid":"Task107_Example_ml_reg_case37",
     "text":"Subject describes intermittent fever, symptoms of seasonal allergies. I: Individual reports normal of 6.9 cm. II: Subject describes normal of 6.4mm. III: Case involves normal of 1.1 mm. IV: Patient presents with normal of 12mm. V: Case involves lesion of 17mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       69.0,
@@ -85,10 +92,11 @@
       1.0,
       12.0,
       17.0
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case47",
+    "uid":"Task107_Example_ml_reg_case47",
     "text":"Subject describes sudden weight loss, likely viral infection. I: Individual reports lesion of 14 mm. II: Subject describes lesion of 5.4 mm. III: Individual reports lesion of 6.7mm. IV: Subject describes normal of 6.5mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       14.0,
@@ -96,10 +104,11 @@
       7.0,
       6.0,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case57",
+    "uid":"Task107_Example_ml_reg_case57",
     "text":"Subject describes sudden weight loss, potential thyroid disorder. I: Patient presents with normal of 16cm. II: Individual reports normal of 9.1mm. III: Patient presents with lesion of 5.7 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       163.0,
@@ -107,10 +116,11 @@
       6.0,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case66",
+    "uid":"Task107_Example_ml_reg_case66",
     "text":"Patient presents with chronic fatigue, indication of chronic fatigue syndrome. I: Individual reports lesion of 5.8 mm. II: Case involves lesion of 14 mm. III: Patient presents with lesion of 14 cm. Recommend further testing. ",
     "multi_label_regression_target":[
       6.0,
@@ -118,10 +128,11 @@
       139.0,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case73",
+    "uid":"Task107_Example_ml_reg_case73",
     "text":"Case involves persistent cough, early signs of diabetes. I: Patient presents with normal of 10mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       10.0,
@@ -129,10 +140,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case74",
+    "uid":"Task107_Example_ml_reg_case74",
     "text":"Case involves intermittent fever, possible bacterial infection. I: Individual reports lesion of 5.7 cm. II: Individual reports lesion of 6.4 cm. III: Individual reports lesion of 3.8mm. IV: Individual reports normal of 14 cm. V: Individual reports normal of 16cm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       57.0,
@@ -140,10 +152,11 @@
       4.0,
       144.0,
       160.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case79",
+    "uid":"Task107_Example_ml_reg_case79",
     "text":"Subject describes shortness of breath, early signs of diabetes. I: Subject describes other structure of size 9.2cm. II: Individual reports other structure of size 1.3mm. III: Subject describes lesion of 18mm. IV: Patient presents with lesion of 4.6mm. V: Case involves other structure of size 12mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       92.0,
@@ -151,10 +164,11 @@
       18.0,
       5.0,
       12.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case80",
+    "uid":"Task107_Example_ml_reg_case80",
     "text":"Subject describes chronic fatigue, indication of chronic fatigue syndrome. I: Individual reports normal of 18mm. II: Case involves normal of 17 mm. III: Case involves lesion of 11cm. Recommend further testing. ",
     "multi_label_regression_target":[
       18.0,
@@ -162,10 +176,11 @@
       112.0,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case87",
+    "uid":"Task107_Example_ml_reg_case87",
     "text":"Case involves shortness of breath, indication of chronic fatigue syndrome. I: Case involves lesion of 18mm. II: Case involves normal of 6.3 mm. III: Patient presents with lesion of 8.6mm. IV: Case involves lesion of 5.2 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       18.0,
@@ -173,10 +188,11 @@
       9.0,
       5.0,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case90",
+    "uid":"Task107_Example_ml_reg_case90",
     "text":"Subject describes shortness of breath, early signs of diabetes. I: Subject describes normal of 13mm. II: Case involves lesion of 13 mm. III: Patient presents with lesion of 9.0cm. IV: Case involves normal of 14 mm. V: Patient presents with other structure of size 1.8 cm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       13.0,
@@ -184,10 +200,11 @@
       90.0,
       14.0,
       18.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case91",
+    "uid":"Task107_Example_ml_reg_case91",
     "text":"Case involves sudden weight loss, early signs of diabetes. I: Case involves lesion of 7.3 mm. II: Case involves normal of 6.4 mm. III: Individual reports lesion of 6.8mm. IV: Individual reports normal of 13 mm. V: Case involves normal of 8.5mm. Recommend further testing. ",
     "multi_label_regression_target":[
       7.0,
@@ -195,10 +212,11 @@
       7.0,
       13.0,
       9.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case94",
+    "uid":"Task107_Example_ml_reg_case94",
     "text":"Subject describes persistent cough, likely viral infection. I: Case involves normal of 8.4mm. II: Case involves lesion of 20mm. III: Patient presents with normal of 8.6mm. IV: Individual reports lesion of 20 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       8.0,
@@ -206,10 +224,11 @@
       9.0,
       20.0,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case96",
+    "uid":"Task107_Example_ml_reg_case96",
     "text":"Patient presents with persistent cough, symptoms of seasonal allergies. I: Subject describes other structure of size 14 mm. II: Individual reports lesion of 15 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       14.0,
@@ -217,10 +236,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case103",
+    "uid":"Task107_Example_ml_reg_case103",
     "text":"Subject describes severe headaches, indication of chronic fatigue syndrome. I: Subject describes lesion of 18mm. II: Individual reports other structure of size 6.8 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       18.0,
@@ -228,10 +248,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case105",
+    "uid":"Task107_Example_ml_reg_case105",
     "text":"Patient presents with shortness of breath, possible bacterial infection. I: Case involves lesion of 11mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       11.0,
@@ -239,10 +260,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case118",
+    "uid":"Task107_Example_ml_reg_case118",
     "text":"Patient presents with intermittent fever, potential thyroid disorder. I: Patient presents with other structure of size 13cm. II: Case involves lesion of 12mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       132.0,
@@ -250,10 +272,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case120",
+    "uid":"Task107_Example_ml_reg_case120",
     "text":"Subject describes mild to moderate chest pain, early signs of diabetes. I: Patient presents with normal of 19cm. II: Individual reports lesion of 6.0mm. III: Case involves lesion of 9.6mm. IV: Case involves normal of 2.4mm. V: Individual reports lesion of 14cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       192.0,
@@ -261,10 +284,11 @@
       10.0,
       2.0,
       136.0
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case132",
+    "uid":"Task107_Example_ml_reg_case132",
     "text":"Individual reports persistent cough, possible bacterial infection. I: Case involves normal of 7.1cm. II: Individual reports lesion of 17 cm. III: Patient presents with lesion of 5.3 cm. Recommend further testing. ",
     "multi_label_regression_target":[
       71.0,
@@ -272,10 +296,11 @@
       53.0,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case136",
+    "uid":"Task107_Example_ml_reg_case136",
     "text":"Subject describes severe headaches, potential thyroid disorder. I: Case involves lesion of 7.7 mm. II: Patient presents with lesion of 11 mm. III: Subject describes normal of 11 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       8.0,
@@ -283,10 +308,11 @@
       11.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case137",
+    "uid":"Task107_Example_ml_reg_case137",
     "text":"Case involves sudden weight loss, potential thyroid disorder. I: Subject describes lesion of 15mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       15.0,
@@ -294,10 +320,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case144",
+    "uid":"Task107_Example_ml_reg_case144",
     "text":"Subject describes chronic fatigue, early signs of diabetes. I: Subject describes other structure of size 13mm. II: Individual reports normal of 6.6 mm. III: Case involves normal of 18cm. IV: Subject describes lesion of 8.9 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       13.0,
@@ -305,10 +332,11 @@
       182.0,
       9.0,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case145",
+    "uid":"Task107_Example_ml_reg_case145",
     "text":"Individual reports shortness of breath, early signs of diabetes. I: Patient presents with normal of 19 mm. II: Patient presents with normal of 10 cm. III: Patient presents with lesion of 9.2mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       19.0,
@@ -316,10 +344,11 @@
       9.0,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case147",
+    "uid":"Task107_Example_ml_reg_case147",
     "text":"Case involves mild to moderate chest pain, possible bacterial infection. I: Patient presents with other structure of size 19 mm. II: Subject describes normal of 15 cm. III: Case involves other structure of size 1.1 mm. IV: Case involves normal of 10 cm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       19.0,
@@ -327,10 +356,11 @@
       1.0,
       104.0,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case151",
+    "uid":"Task107_Example_ml_reg_case151",
     "text":"Patient presents with persistent cough, potential thyroid disorder. I: Case involves lesion of 6.1cm. II: Patient presents with normal of 9.5 mm. III: Case involves other structure of size 5.0cm. IV: Subject describes lesion of 18cm. V: Case involves lesion of 16 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       61.0,
@@ -338,10 +368,11 @@
       50.0,
       181.0,
       16.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case159",
+    "uid":"Task107_Example_ml_reg_case159",
     "text":"Subject describes chronic fatigue, symptoms of seasonal allergies. I: Subject describes lesion of 13cm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       132.0,
@@ -349,10 +380,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case181",
+    "uid":"Task107_Example_ml_reg_case181",
     "text":"Individual reports severe headaches, possible bacterial infection. I: Case involves normal of 4.5 mm. II: Subject describes normal of 19mm. III: Individual reports other structure of size 5.6 cm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       4.0,
@@ -360,10 +392,11 @@
       56.0,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case185",
+    "uid":"Task107_Example_ml_reg_case185",
     "text":"Patient presents with severe headaches, possible bacterial infection. I: Patient presents with lesion of 5.2 mm. II: Individual reports other structure of size 1.5cm. III: Subject describes normal of 8.0cm. IV: Patient presents with other structure of size 9.2cm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       5.0,
@@ -371,10 +404,11 @@
       80.0,
       92.0,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case187",
+    "uid":"Task107_Example_ml_reg_case187",
     "text":"Subject describes sudden weight loss, early signs of diabetes. I: Subject describes normal of 14 cm. Recommend further testing. ",
     "multi_label_regression_target":[
       143.0,
@@ -382,10 +416,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case212",
+    "uid":"Task107_Example_ml_reg_case212",
     "text":"Patient presents with shortness of breath, early signs of diabetes. I: Subject describes normal of 15 mm. II: Case involves lesion of 19mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       15.0,
@@ -393,10 +428,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case225",
+    "uid":"Task107_Example_ml_reg_case225",
     "text":"Subject describes mild to moderate chest pain, early signs of diabetes. I: Patient presents with other structure of size 3.6 mm. II: Individual reports other structure of size 3.5cm. III: Individual reports normal of 15 mm. IV: Individual reports normal of 12 cm. V: Case involves other structure of size 16mm. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Recommend further testing. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise regular exercise. Advise regular exercise. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Recommend further testing. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Suggest dietary changes. Advise patient to increase fluid intake. Recommend further testing. Recommend further testing. Recommend further testing. Advise regular exercise. Recommend further testing. Suggest dietary changes. Advise regular exercise. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Advise regular exercise. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Recommend further testing. Advise patient to increase fluid intake. Recommend further testing. Recommend further testing. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Advise regular exercise. Advise regular exercise. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake.",
     "multi_label_regression_target":[
       4.0,
@@ -404,10 +440,11 @@
       15.0,
       115.0,
       16.0
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case232",
+    "uid":"Task107_Example_ml_reg_case232",
     "text":"Subject describes shortness of breath, potential thyroid disorder. I: Subject describes normal of 6.9 mm. II: Subject describes lesion of 12 mm. III: Individual reports lesion of 2.6mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       7.0,
@@ -415,10 +452,11 @@
       3.0,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case241",
+    "uid":"Task107_Example_ml_reg_case241",
     "text":"Patient presents with sudden weight loss, early signs of diabetes. I: Patient presents with lesion of 15cm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       148.0,
@@ -426,10 +464,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case250",
+    "uid":"Task107_Example_ml_reg_case250",
     "text":"Case involves shortness of breath, early signs of diabetes. I: Subject describes lesion of 19 mm. II: Patient presents with normal of 13 mm. Advise patient to increase fluid intake. Recommend further testing. Recommend further testing. Recommend further testing. Recommend further testing. Advise regular exercise. Advise regular exercise. Recommend further testing. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Suggest dietary changes. Recommend further testing. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Recommend further testing. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Advise regular exercise. Suggest dietary changes. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Advise regular exercise. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Recommend further testing. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Suggest dietary changes. Recommend further testing. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Recommend further testing. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Advise regular exercise. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Suggest dietary changes. Prescribe rest and over-the-counter medication. Recommend further testing. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Suggest dietary changes. Recommend further testing. Schedule follow-up in two weeks. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Recommend further testing.",
     "multi_label_regression_target":[
       19.0,
@@ -437,10 +476,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case260",
+    "uid":"Task107_Example_ml_reg_case260",
     "text":"Case involves persistent cough, possible bacterial infection. I: Patient presents with normal of 17 cm. II: Individual reports normal of 6.3 mm. III: Case involves normal of 4.4mm. IV: Case involves normal of 2.4 mm. V: Case involves lesion of 3.5 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       166.0,
@@ -448,10 +488,11 @@
       4.0,
       2.0,
       3.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case269",
+    "uid":"Task107_Example_ml_reg_case269",
     "text":"Patient presents with persistent cough, likely viral infection. I: Individual reports lesion of 6.2mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       6.0,
@@ -459,10 +500,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case272",
+    "uid":"Task107_Example_ml_reg_case272",
     "text":"Case involves intermittent fever, early signs of diabetes. I: Patient presents with lesion of 9.8mm. II: Individual reports other structure of size 18 mm. III: Individual reports normal of 9.9mm. IV: Patient presents with normal of 15mm. V: Patient presents with normal of 12 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       10.0,
@@ -470,10 +512,11 @@
       10.0,
       15.0,
       12.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case284",
+    "uid":"Task107_Example_ml_reg_case284",
     "text":"Patient presents with severe headaches, likely viral infection. I: Case involves normal of 8.7mm. II: Subject describes lesion of 11 mm. III: Patient presents with normal of 13 cm. IV: Individual reports normal of 8.8cm. V: Case involves normal of 6.9 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       9.0,
@@ -481,10 +524,11 @@
       133.0,
       88.0,
       7.0
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case288",
+    "uid":"Task107_Example_ml_reg_case288",
     "text":"Case involves severe headaches, likely viral infection. I: Subject describes lesion of 1.4 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       1.0,
@@ -492,10 +536,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case290",
+    "uid":"Task107_Example_ml_reg_case290",
     "text":"Patient presents with shortness of breath, likely viral infection. I: Individual reports lesion of 2.5cm. II: Individual reports lesion of 18mm. III: Subject describes normal of 9.5 cm. IV: Case involves other structure of size 17mm. V: Subject describes other structure of size 15 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       25.0,
@@ -503,10 +548,11 @@
       95.0,
       17.0,
       15.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case294",
+    "uid":"Task107_Example_ml_reg_case294",
     "text":"Case involves shortness of breath, potential thyroid disorder. I: Subject describes lesion of 14 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       14.0,
@@ -514,10 +560,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case301",
+    "uid":"Task107_Example_ml_reg_case301",
     "text":"Individual reports mild to moderate chest pain, symptoms of seasonal allergies. I: Patient presents with normal of 15 mm. II: Patient presents with normal of 15mm. III: Patient presents with lesion of 1.2 mm. IV: Case involves normal of 10cm. Recommend further testing. ",
     "multi_label_regression_target":[
       15.0,
@@ -525,10 +572,11 @@
       1.0,
       100.0,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case321",
+    "uid":"Task107_Example_ml_reg_case321",
     "text":"Patient presents with persistent cough, symptoms of seasonal allergies. I: Patient presents with lesion of 15mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       15.0,
@@ -536,10 +584,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case330",
+    "uid":"Task107_Example_ml_reg_case330",
     "text":"Individual reports mild to moderate chest pain, symptoms of seasonal allergies. I: Subject describes lesion of 15 cm. II: Subject describes lesion of 13mm. III: Subject describes other structure of size 12 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       153.0,
@@ -547,10 +596,11 @@
       12.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case338",
+    "uid":"Task107_Example_ml_reg_case338",
     "text":"Subject describes mild to moderate chest pain, potential thyroid disorder. I: Subject describes normal of 14 mm. II: Case involves other structure of size 18mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       14.0,
@@ -558,10 +608,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case343",
+    "uid":"Task107_Example_ml_reg_case343",
     "text":"Subject describes severe headaches, early signs of diabetes. I: Subject describes normal of 17mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       17.0,
@@ -569,10 +620,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case360",
+    "uid":"Task107_Example_ml_reg_case360",
     "text":"Patient presents with shortness of breath, symptoms of seasonal allergies. I: Subject describes lesion of 9.5mm. II: Patient presents with lesion of 13 mm. III: Individual reports lesion of 3.8mm. IV: Subject describes normal of 3.0 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       9.0,
@@ -580,10 +632,11 @@
       4.0,
       3.0,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case368",
+    "uid":"Task107_Example_ml_reg_case368",
     "text":"Individual reports shortness of breath, likely viral infection. I: Case involves normal of 19 mm. II: Individual reports lesion of 2.1cm. III: Individual reports normal of 11cm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       19.0,
@@ -591,10 +644,11 @@
       114.0,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case369",
+    "uid":"Task107_Example_ml_reg_case369",
     "text":"Subject describes sudden weight loss, potential thyroid disorder. I: Case involves normal of 5.4 mm. II: Subject describes normal of 3.4 mm. III: Patient presents with normal of 16 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       5.0,
@@ -602,10 +656,11 @@
       16.0,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case376",
+    "uid":"Task107_Example_ml_reg_case376",
     "text":"Patient presents with chronic fatigue, possible bacterial infection. I: Case involves lesion of 15 mm. II: Case involves normal of 12cm. III: Case involves normal of 20 mm. IV: Patient presents with normal of 19mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       15.0,
@@ -613,10 +668,11 @@
       20.0,
       19.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case390",
+    "uid":"Task107_Example_ml_reg_case390",
     "text":"Individual reports mild to moderate chest pain, early signs of diabetes. I: Individual reports normal of 12cm. II: Case involves normal of 18mm. III: Subject describes lesion of 2.0 mm. IV: Patient presents with lesion of 3.2mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       118.0,
@@ -624,10 +680,11 @@
       2.0,
       3.0,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case392",
+    "uid":"Task107_Example_ml_reg_case392",
     "text":"Patient presents with intermittent fever, possible bacterial infection. I: Subject describes other structure of size 13mm. II: Patient presents with lesion of 9.6mm. III: Patient presents with other structure of size 19mm. IV: Subject describes lesion of 12 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       13.0,
@@ -635,10 +692,11 @@
       19.0,
       12.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case403",
+    "uid":"Task107_Example_ml_reg_case403",
     "text":"Case involves chronic fatigue, likely viral infection. I: Case involves lesion of 6.7mm. II: Subject describes other structure of size 13 mm. III: Individual reports normal of 13mm. IV: Patient presents with normal of 20 mm. V: Patient presents with normal of 9.4mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       7.0,
@@ -646,10 +704,11 @@
       13.0,
       20.0,
       9.0
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case408",
+    "uid":"Task107_Example_ml_reg_case408",
     "text":"Subject describes persistent cough, possible bacterial infection. I: Individual reports normal of 12mm. II: Subject describes other structure of size 1.1 mm. III: Subject describes other structure of size 12mm. IV: Patient presents with lesion of 7.8mm. V: Subject describes lesion of 1.2 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       12.0,
@@ -657,10 +716,11 @@
       12.0,
       8.0,
       1.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case418",
+    "uid":"Task107_Example_ml_reg_case418",
     "text":"Individual reports mild to moderate chest pain, potential thyroid disorder. I: Patient presents with other structure of size 20mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       20.0,
@@ -668,10 +728,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case424",
+    "uid":"Task107_Example_ml_reg_case424",
     "text":"Subject describes mild to moderate chest pain, symptoms of seasonal allergies. I: Individual reports normal of 14mm. II: Individual reports other structure of size 20mm. III: Subject describes normal of 11mm. Recommend further testing. ",
     "multi_label_regression_target":[
       14.0,
@@ -679,10 +740,11 @@
       11.0,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case440",
+    "uid":"Task107_Example_ml_reg_case440",
     "text":"Case involves intermittent fever, early signs of diabetes. I: Subject describes normal of 13mm. II: Subject describes normal of 19mm. Recommend further testing. ",
     "multi_label_regression_target":[
       13.0,
@@ -690,10 +752,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case442",
+    "uid":"Task107_Example_ml_reg_case442",
     "text":"Case involves chronic fatigue, potential thyroid disorder. I: Case involves normal of 11mm. II: Patient presents with lesion of 4.9mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       11.0,
@@ -701,10 +764,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case443",
+    "uid":"Task107_Example_ml_reg_case443",
     "text":"Individual reports mild to moderate chest pain, early signs of diabetes. I: Case involves other structure of size 19mm. II: Case involves lesion of 7.6 mm. III: Patient presents with normal of 16 cm. IV: Individual reports lesion of 15 cm. Recommend further testing. ",
     "multi_label_regression_target":[
       19.0,
@@ -712,10 +776,11 @@
       158.0,
       146.0,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case448",
+    "uid":"Task107_Example_ml_reg_case448",
     "text":"Patient presents with chronic fatigue, possible bacterial infection. I: Individual reports lesion of 11mm. II: Individual reports lesion of 19mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       11.0,
@@ -723,10 +788,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case455",
+    "uid":"Task107_Example_ml_reg_case455",
     "text":"Individual reports mild to moderate chest pain, potential thyroid disorder. I: Case involves lesion of 13 mm. II: Subject describes normal of 2.3 mm. III: Patient presents with lesion of 9.6 mm. IV: Individual reports normal of 18 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       13.0,
@@ -734,10 +800,11 @@
       10.0,
       18.0,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case457",
+    "uid":"Task107_Example_ml_reg_case457",
     "text":"Case involves intermittent fever, early signs of diabetes. I: Subject describes normal of 15mm. II: Case involves normal of 17mm. III: Case involves other structure of size 15mm. IV: Individual reports normal of 4.3 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       15.0,
@@ -745,10 +812,11 @@
       15.0,
       4.0,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case459",
+    "uid":"Task107_Example_ml_reg_case459",
     "text":"Case involves chronic fatigue, likely viral infection. I: Case involves lesion of 3.9 cm. II: Patient presents with other structure of size 19mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       39.0,
@@ -756,10 +824,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case466",
+    "uid":"Task107_Example_ml_reg_case466",
     "text":"Case involves severe headaches, symptoms of seasonal allergies. I: Patient presents with lesion of 7.3 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       7.0,
@@ -767,10 +836,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case467",
+    "uid":"Task107_Example_ml_reg_case467",
     "text":"Individual reports persistent cough, symptoms of seasonal allergies. I: Subject describes normal of 1.5 mm. II: Patient presents with other structure of size 6.4mm. III: Individual reports lesion of 3.0 mm. IV: Patient presents with other structure of size 19 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       2.0,
@@ -778,10 +848,11 @@
       3.0,
       19.0,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case473",
+    "uid":"Task107_Example_ml_reg_case473",
     "text":"Case involves mild to moderate chest pain, possible bacterial infection. I: Subject describes lesion of 4.2cm. Recommend further testing. ",
     "multi_label_regression_target":[
       42.0,
@@ -789,10 +860,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case474",
+    "uid":"Task107_Example_ml_reg_case474",
     "text":"Patient presents with severe headaches, early signs of diabetes. I: Patient presents with normal of 19mm. II: Individual reports other structure of size 15mm. III: Individual reports lesion of 4.3mm. IV: Case involves normal of 14 cm. V: Subject describes lesion of 15 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       19.0,
@@ -800,10 +872,11 @@
       4.0,
       139.0,
       15.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case476",
+    "uid":"Task107_Example_ml_reg_case476",
     "text":"Subject describes sudden weight loss, potential thyroid disorder. I: Subject describes normal of 1.8 cm. II: Subject describes other structure of size 4.6mm. III: Subject describes lesion of 11mm. IV: Case involves normal of 12 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       18.0,
@@ -811,10 +884,11 @@
       11.0,
       12.0,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case488",
+    "uid":"Task107_Example_ml_reg_case488",
     "text":"Subject describes severe headaches, symptoms of seasonal allergies. I: Subject describes lesion of 13 mm. II: Subject describes normal of 14mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       13.0,
@@ -822,10 +896,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case491",
+    "uid":"Task107_Example_ml_reg_case491",
     "text":"Individual reports persistent cough, symptoms of seasonal allergies. I: Individual reports normal of 16mm. II: Subject describes lesion of 2.4 mm. III: Patient presents with normal of 6.2 cm. IV: Subject describes lesion of 12 mm. V: Individual reports normal of 13mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       16.0,
@@ -833,10 +908,11 @@
       62.0,
       12.0,
       13.0
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case498",
+    "uid":"Task107_Example_ml_reg_case498",
     "text":"Individual reports mild to moderate chest pain, symptoms of seasonal allergies. I: Individual reports lesion of 9.7 cm. II: Case involves normal of 11mm. III: Individual reports lesion of 17 mm. IV: Case involves other structure of size 5.7 cm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       97.0,
@@ -844,10 +920,11 @@
       17.0,
       57.0,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case499",
+    "uid":"Task107_Example_ml_reg_case499",
     "text":"Subject describes severe headaches, symptoms of seasonal allergies. I: Patient presents with normal of 9.8mm. II: Patient presents with normal of 4.0 mm. III: Patient presents with normal of 1.7 mm. IV: Individual reports lesion of 8.4mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       10.0,
@@ -855,10 +932,11 @@
       2.0,
       8.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case501",
+    "uid":"Task107_Example_ml_reg_case501",
     "text":"Subject describes mild to moderate chest pain, potential thyroid disorder. I: Individual reports normal of 9.7 mm. II: Subject describes lesion of 15mm. III: Subject describes normal of 9.1cm. IV: Subject describes lesion of 16mm. V: Individual reports normal of 19 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       10.0,
@@ -866,10 +944,11 @@
       91.0,
       16.0,
       19.0
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case510",
+    "uid":"Task107_Example_ml_reg_case510",
     "text":"Patient presents with sudden weight loss, likely viral infection. I: Subject describes normal of 11cm. II: Case involves normal of 11mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       113.0,
@@ -877,10 +956,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case519",
+    "uid":"Task107_Example_ml_reg_case519",
     "text":"Patient presents with severe headaches, potential thyroid disorder. I: Subject describes normal of 12 mm. II: Patient presents with lesion of 8.3cm. III: Case involves lesion of 14cm. Advise regular exercise. ",
     "multi_label_regression_target":[
       12.0,
@@ -888,10 +968,11 @@
       137.0,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case520",
+    "uid":"Task107_Example_ml_reg_case520",
     "text":"Patient presents with intermittent fever, indication of chronic fatigue syndrome. I: Patient presents with normal of 12 cm. II: Patient presents with lesion of 5.0cm. III: Case involves normal of 11 mm. IV: Individual reports normal of 12 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       120.0,
@@ -899,10 +980,11 @@
       11.0,
       12.0,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case537",
+    "uid":"Task107_Example_ml_reg_case537",
     "text":"Patient presents with sudden weight loss, likely viral infection. I: Case involves lesion of 4.5mm. II: Case involves other structure of size 14mm. III: Case involves normal of 8.8mm. IV: Patient presents with other structure of size 16 cm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       4.0,
@@ -910,10 +992,11 @@
       9.0,
       160.0,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case546",
+    "uid":"Task107_Example_ml_reg_case546",
     "text":"Patient presents with severe headaches, indication of chronic fatigue syndrome. I: Subject describes normal of 16mm. II: Individual reports normal of 3.9 mm. III: Patient presents with normal of 8.7 mm. IV: Individual reports normal of 12mm. V: Individual reports normal of 3.8 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       16.0,
@@ -921,10 +1004,11 @@
       9.0,
       12.0,
       4.0
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case549",
+    "uid":"Task107_Example_ml_reg_case549",
     "text":"Patient presents with shortness of breath, symptoms of seasonal allergies. I: Case involves normal of 16 cm. II: Individual reports lesion of 10mm. III: Individual reports normal of 8.9cm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       164.0,
@@ -932,10 +1016,11 @@
       89.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case555",
+    "uid":"Task107_Example_ml_reg_case555",
     "text":"Case involves sudden weight loss, possible bacterial infection. I: Individual reports other structure of size 10.0cm. II: Patient presents with lesion of 13 mm. III: Patient presents with normal of 1.4mm. IV: Patient presents with lesion of 9.9cm. V: Patient presents with lesion of 14 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       100.0,
@@ -943,10 +1028,11 @@
       1.0,
       99.0,
       14.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case559",
+    "uid":"Task107_Example_ml_reg_case559",
     "text":"Subject describes intermittent fever, potential thyroid disorder. I: Case involves lesion of 3.1cm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       31.0,
@@ -954,10 +1040,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case577",
+    "uid":"Task107_Example_ml_reg_case577",
     "text":"Subject describes severe headaches, indication of chronic fatigue syndrome. I: Subject describes other structure of size 9.4mm. II: Individual reports lesion of 20mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       9.0,
@@ -965,10 +1052,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case591",
+    "uid":"Task107_Example_ml_reg_case591",
     "text":"Subject describes persistent cough, potential thyroid disorder. I: Subject describes lesion of 1.0 mm. II: Individual reports lesion of 7.6 mm. III: Patient presents with normal of 7.6mm. IV: Patient presents with other structure of size 12 mm. V: Individual reports normal of 15mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       1.0,
@@ -976,10 +1064,11 @@
       8.0,
       12.0,
       15.0
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case594",
+    "uid":"Task107_Example_ml_reg_case594",
     "text":"Subject describes severe headaches, symptoms of seasonal allergies. I: Case involves lesion of 13 mm. II: Subject describes lesion of 17 mm. III: Case involves lesion of 3.7mm. IV: Case involves normal of 3.9 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       13.0,
@@ -987,10 +1076,11 @@
       4.0,
       4.0,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case598",
+    "uid":"Task107_Example_ml_reg_case598",
     "text":"Subject describes intermittent fever, early signs of diabetes. I: Individual reports normal of 8.6 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       9.0,
@@ -998,10 +1088,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case602",
+    "uid":"Task107_Example_ml_reg_case602",
     "text":"Individual reports mild to moderate chest pain, likely viral infection. I: Subject describes other structure of size 7.3mm. Recommend further testing. ",
     "multi_label_regression_target":[
       7.0,
@@ -1009,10 +1100,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case625",
+    "uid":"Task107_Example_ml_reg_case625",
     "text":"Subject describes chronic fatigue, symptoms of seasonal allergies. I: Subject describes lesion of 7.3 mm. Suggest dietary changes. Schedule follow-up in two weeks. Advise regular exercise. Schedule follow-up in two weeks. Advise regular exercise. Prescribe rest and over-the-counter medication. Suggest dietary changes. Suggest dietary changes. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Recommend further testing. Advise regular exercise. Recommend further testing. Advise regular exercise. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Suggest dietary changes. Advise regular exercise. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Recommend further testing. Advise regular exercise. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise regular exercise. Schedule follow-up in two weeks. Suggest dietary changes. Advise regular exercise. Recommend further testing. Schedule follow-up in two weeks. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise regular exercise. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Suggest dietary changes. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Schedule follow-up in two weeks. Advise regular exercise. Schedule follow-up in two weeks. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Suggest dietary changes. Prescribe rest and over-the-counter medication. Suggest dietary changes. Suggest dietary changes. Advise patient to increase fluid intake. Suggest dietary changes. Recommend further testing. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Suggest dietary changes. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Advise patient to increase fluid intake. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Suggest dietary changes.",
     "multi_label_regression_target":[
       7.0,
@@ -1020,10 +1112,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case632",
+    "uid":"Task107_Example_ml_reg_case632",
     "text":"Case involves sudden weight loss, likely viral infection. I: Case involves lesion of 11mm. II: Individual reports lesion of 13mm. III: Individual reports normal of 14 cm. IV: Individual reports normal of 4.5 mm. V: Patient presents with normal of 13 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       11.0,
@@ -1031,10 +1124,11 @@
       140.0,
       5.0,
       13.0
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case637",
+    "uid":"Task107_Example_ml_reg_case637",
     "text":"Subject describes persistent cough, early signs of diabetes. I: Case involves lesion of 8.4 cm. II: Patient presents with other structure of size 12 mm. III: Subject describes lesion of 11 cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       84.0,
@@ -1042,10 +1136,11 @@
       108.0,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case639",
+    "uid":"Task107_Example_ml_reg_case639",
     "text":"Patient presents with sudden weight loss, potential thyroid disorder. I: Individual reports other structure of size 6.8mm. II: Subject describes normal of 11 mm. III: Patient presents with normal of 6.9 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       7.0,
@@ -1053,10 +1148,11 @@
       7.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case645",
+    "uid":"Task107_Example_ml_reg_case645",
     "text":"Individual reports severe headaches, likely viral infection. I: Case involves lesion of 6.8mm. II: Patient presents with lesion of 9.6cm. III: Case involves normal of 4.5mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       7.0,
@@ -1064,10 +1160,11 @@
       4.0,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case646",
+    "uid":"Task107_Example_ml_reg_case646",
     "text":"Subject describes severe headaches, symptoms of seasonal allergies. I: Individual reports lesion of 7.0mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       7.0,
@@ -1075,10 +1172,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case658",
+    "uid":"Task107_Example_ml_reg_case658",
     "text":"Case involves chronic fatigue, possible bacterial infection. I: Patient presents with other structure of size 1.9mm. II: Patient presents with lesion of 16 mm. III: Subject describes lesion of 18mm. IV: Case involves other structure of size 19 cm. V: Subject describes lesion of 3.8 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       2.0,
@@ -1086,10 +1184,11 @@
       18.0,
       189.0,
       4.0
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case666",
+    "uid":"Task107_Example_ml_reg_case666",
     "text":"Patient presents with persistent cough, potential thyroid disorder. I: Patient presents with lesion of 5.6 mm. II: Case involves normal of 4.8 mm. III: Patient presents with lesion of 4.0 mm. IV: Patient presents with lesion of 5.7mm. V: Patient presents with lesion of 19mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       6.0,
@@ -1097,10 +1196,11 @@
       4.0,
       6.0,
       19.0
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case681",
+    "uid":"Task107_Example_ml_reg_case681",
     "text":"Individual reports sudden weight loss, potential thyroid disorder. I: Subject describes normal of 18 mm. II: Case involves lesion of 6.0 mm. III: Individual reports lesion of 6.1mm. IV: Subject describes normal of 15mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       18.0,
@@ -1108,10 +1208,11 @@
       6.0,
       15.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case684",
+    "uid":"Task107_Example_ml_reg_case684",
     "text":"Subject describes persistent cough, possible bacterial infection. I: Individual reports normal of 5.9mm. II: Individual reports lesion of 1.9mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       6.0,
@@ -1119,10 +1220,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case685",
+    "uid":"Task107_Example_ml_reg_case685",
     "text":"Individual reports mild to moderate chest pain, symptoms of seasonal allergies. I: Subject describes lesion of 1.9mm. II: Patient presents with lesion of 2.7 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       2.0,
@@ -1130,10 +1232,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case690",
+    "uid":"Task107_Example_ml_reg_case690",
     "text":"Subject describes shortness of breath, potential thyroid disorder. I: Subject describes normal of 17cm. II: Individual reports normal of 5.6 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       170.0,
@@ -1141,10 +1244,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case697",
+    "uid":"Task107_Example_ml_reg_case697",
     "text":"Case involves persistent cough, indication of chronic fatigue syndrome. I: Subject describes lesion of 9.4 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       9.0,
@@ -1152,10 +1256,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case699",
+    "uid":"Task107_Example_ml_reg_case699",
     "text":"Individual reports shortness of breath, potential thyroid disorder. I: Subject describes normal of 19 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       19.0,
@@ -1163,10 +1268,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case716",
+    "uid":"Task107_Example_ml_reg_case716",
     "text":"Case involves intermittent fever, indication of chronic fatigue syndrome. I: Case involves normal of 18 cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       181.0,
@@ -1174,10 +1280,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case725",
+    "uid":"Task107_Example_ml_reg_case725",
     "text":"Individual reports intermittent fever, indication of chronic fatigue syndrome. I: Patient presents with normal of 5.1cm. II: Case involves normal of 18mm. III: Patient presents with lesion of 6.9cm. IV: Subject describes other structure of size 12mm. Recommend further testing. Recommend further testing. Recommend further testing. Suggest dietary changes. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Recommend further testing. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise regular exercise. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Advise patient to increase fluid intake. Suggest dietary changes. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Recommend further testing. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Recommend further testing. Schedule follow-up in two weeks. Suggest dietary changes. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise regular exercise. Schedule follow-up in two weeks. Advise regular exercise. Advise regular exercise. Advise regular exercise. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Suggest dietary changes. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise regular exercise. Advise regular exercise. Advise regular exercise. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise regular exercise. Recommend further testing. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Suggest dietary changes. Schedule follow-up in two weeks. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Suggest dietary changes. Suggest dietary changes. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Suggest dietary changes. Advise regular exercise. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Suggest dietary changes. Recommend further testing.",
     "multi_label_regression_target":[
       51.0,
@@ -1185,10 +1292,11 @@
       69.0,
       12.0,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case737",
+    "uid":"Task107_Example_ml_reg_case737",
     "text":"Individual reports chronic fatigue, potential thyroid disorder. I: Case involves lesion of 19mm. II: Case involves lesion of 5.3mm. III: Subject describes normal of 8.5cm. IV: Subject describes lesion of 17 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       19.0,
@@ -1196,10 +1304,11 @@
       85.0,
       17.0,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case746",
+    "uid":"Task107_Example_ml_reg_case746",
     "text":"Patient presents with shortness of breath, likely viral infection. I: Patient presents with lesion of 2.7cm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       27.0,
@@ -1207,10 +1316,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case747",
+    "uid":"Task107_Example_ml_reg_case747",
     "text":"Patient presents with chronic fatigue, potential thyroid disorder. I: Case involves lesion of 16 mm. II: Patient presents with normal of 18 mm. III: Subject describes normal of 15mm. Recommend further testing. ",
     "multi_label_regression_target":[
       16.0,
@@ -1218,10 +1328,11 @@
       15.0,
       null,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case749",
+    "uid":"Task107_Example_ml_reg_case749",
     "text":"Subject describes sudden weight loss, possible bacterial infection. I: Patient presents with normal of 9.0mm. II: Individual reports other structure of size 20cm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       9.0,
@@ -1229,10 +1340,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case756",
+    "uid":"Task107_Example_ml_reg_case756",
     "text":"Individual reports chronic fatigue, likely viral infection. I: Individual reports normal of 12 mm. II: Subject describes normal of 1.2 mm. III: Individual reports lesion of 6.6 mm. IV: Subject describes normal of 14 mm. V: Case involves normal of 19mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       12.0,
@@ -1240,10 +1352,11 @@
       7.0,
       14.0,
       19.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case760",
+    "uid":"Task107_Example_ml_reg_case760",
     "text":"Individual reports chronic fatigue, potential thyroid disorder. I: Patient presents with normal of 20 mm. II: Case involves other structure of size 13cm. III: Individual reports other structure of size 16 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       20.0,
@@ -1251,10 +1364,11 @@
       16.0,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case771",
+    "uid":"Task107_Example_ml_reg_case771",
     "text":"Patient presents with persistent cough, possible bacterial infection. I: Individual reports lesion of 18mm. II: Case involves lesion of 6.6mm. III: Case involves normal of 2.1mm. Recommend further testing. ",
     "multi_label_regression_target":[
       18.0,
@@ -1262,10 +1376,11 @@
       2.0,
       null,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case775",
+    "uid":"Task107_Example_ml_reg_case775",
     "text":"Patient presents with shortness of breath, likely viral infection. I: Case involves lesion of 18 mm. II: Case involves lesion of 15 mm. III: Individual reports normal of 4.0 mm. IV: Case involves lesion of 11mm. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Recommend further testing. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Suggest dietary changes. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Suggest dietary changes. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise regular exercise. Suggest dietary changes. Suggest dietary changes. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Schedule follow-up in two weeks. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Recommend further testing. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise regular exercise. Recommend further testing. Advise regular exercise. Advise regular exercise. Suggest dietary changes. Recommend further testing. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Suggest dietary changes. Advise regular exercise. Schedule follow-up in two weeks. Recommend further testing. Advise patient to increase fluid intake. Suggest dietary changes. Suggest dietary changes. Recommend further testing. Advise patient to increase fluid intake. Suggest dietary changes. Recommend further testing. Advise regular exercise. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Prescribe rest and over-the-counter medication. Recommend further testing. Suggest dietary changes. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Suggest dietary changes. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication.",
     "multi_label_regression_target":[
       18.0,
@@ -1273,10 +1388,11 @@
       4.0,
       11.0,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case776",
+    "uid":"Task107_Example_ml_reg_case776",
     "text":"Individual reports sudden weight loss, early signs of diabetes. I: Case involves other structure of size 5.8mm. II: Patient presents with normal of 15mm. III: Individual reports other structure of size 19mm. IV: Case involves lesion of 2.3mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       6.0,
@@ -1284,10 +1400,11 @@
       19.0,
       2.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case783",
+    "uid":"Task107_Example_ml_reg_case783",
     "text":"Individual reports persistent cough, likely viral infection. I: Individual reports lesion of 7.5 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       8.0,
@@ -1295,10 +1412,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case795",
+    "uid":"Task107_Example_ml_reg_case795",
     "text":"Patient presents with persistent cough, potential thyroid disorder. I: Individual reports other structure of size 17mm. II: Individual reports lesion of 3.8 cm. III: Subject describes other structure of size 18 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       17.0,
@@ -1306,10 +1424,11 @@
       18.0,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case797",
+    "uid":"Task107_Example_ml_reg_case797",
     "text":"Individual reports sudden weight loss, symptoms of seasonal allergies. I: Patient presents with other structure of size 9.8mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       10.0,
@@ -1317,10 +1436,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case805",
+    "uid":"Task107_Example_ml_reg_case805",
     "text":"Patient presents with chronic fatigue, indication of chronic fatigue syndrome. I: Case involves lesion of 17 mm. II: Patient presents with normal of 7.8mm. III: Patient presents with other structure of size 6.5 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       17.0,
@@ -1328,10 +1448,11 @@
       6.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case819",
+    "uid":"Task107_Example_ml_reg_case819",
     "text":"Individual reports chronic fatigue, possible bacterial infection. I: Case involves other structure of size 2.3mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       2.0,
@@ -1339,10 +1460,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case820",
+    "uid":"Task107_Example_ml_reg_case820",
     "text":"Individual reports intermittent fever, possible bacterial infection. I: Patient presents with lesion of 1.7mm. II: Case involves normal of 3.5cm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       2.0,
@@ -1350,10 +1472,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case822",
+    "uid":"Task107_Example_ml_reg_case822",
     "text":"Case involves intermittent fever, symptoms of seasonal allergies. I: Individual reports other structure of size 3.5 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       3.0,
@@ -1361,10 +1484,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case825",
+    "uid":"Task107_Example_ml_reg_case825",
     "text":"Subject describes sudden weight loss, likely viral infection. I: Case involves normal of 13 mm. II: Case involves lesion of 11 mm. Recommend further testing. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise regular exercise. Schedule follow-up in two weeks. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Recommend further testing. Schedule follow-up in two weeks. Suggest dietary changes. Prescribe rest and over-the-counter medication. Recommend further testing. Suggest dietary changes. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Suggest dietary changes. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Suggest dietary changes. Recommend further testing. Schedule follow-up in two weeks. Suggest dietary changes. Schedule follow-up in two weeks. Suggest dietary changes. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Suggest dietary changes. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise regular exercise. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise regular exercise. Prescribe rest and over-the-counter medication. Suggest dietary changes. Schedule follow-up in two weeks. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Recommend further testing. Suggest dietary changes. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise regular exercise. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Recommend further testing. Schedule follow-up in two weeks. Advise regular exercise. Recommend further testing. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing.",
     "multi_label_regression_target":[
       13.0,
@@ -1372,10 +1496,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case831",
+    "uid":"Task107_Example_ml_reg_case831",
     "text":"Case involves intermittent fever, possible bacterial infection. I: Subject describes normal of 15cm. II: Patient presents with lesion of 16 mm. III: Case involves lesion of 6.9cm. IV: Case involves lesion of 2.5mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       149.0,
@@ -1383,10 +1508,11 @@
       69.0,
       2.0,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case836",
+    "uid":"Task107_Example_ml_reg_case836",
     "text":"Subject describes persistent cough, early signs of diabetes. I: Individual reports lesion of 5.7mm. II: Case involves lesion of 7.7 mm. III: Subject describes lesion of 10mm. IV: Subject describes normal of 16 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       6.0,
@@ -1394,10 +1520,11 @@
       10.0,
       16.0,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case840",
+    "uid":"Task107_Example_ml_reg_case840",
     "text":"Individual reports chronic fatigue, early signs of diabetes. I: Case involves lesion of 19cm. II: Individual reports lesion of 15mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       185.0,
@@ -1405,10 +1532,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case844",
+    "uid":"Task107_Example_ml_reg_case844",
     "text":"Individual reports chronic fatigue, likely viral infection. I: Patient presents with normal of 18 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       18.0,
@@ -1416,10 +1544,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case856",
+    "uid":"Task107_Example_ml_reg_case856",
     "text":"Subject describes persistent cough, likely viral infection. I: Individual reports normal of 18 mm. II: Patient presents with normal of 17 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       18.0,
@@ -1427,10 +1556,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case857",
+    "uid":"Task107_Example_ml_reg_case857",
     "text":"Case involves severe headaches, symptoms of seasonal allergies. I: Patient presents with other structure of size 12 mm. II: Case involves normal of 7.2 mm. III: Patient presents with normal of 9.3 cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       12.0,
@@ -1438,10 +1568,11 @@
       93.0,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case859",
+    "uid":"Task107_Example_ml_reg_case859",
     "text":"Case involves intermittent fever, likely viral infection. I: Subject describes other structure of size 5.1 mm. II: Case involves normal of 3.8mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       5.0,
@@ -1449,10 +1580,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case860",
+    "uid":"Task107_Example_ml_reg_case860",
     "text":"Individual reports intermittent fever, indication of chronic fatigue syndrome. I: Subject describes other structure of size 18mm. II: Patient presents with other structure of size 9.2mm. III: Subject describes lesion of 12 mm. IV: Individual reports lesion of 6.9 cm. V: Patient presents with lesion of 12 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       18.0,
@@ -1460,10 +1592,11 @@
       12.0,
       69.0,
       12.0
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case868",
+    "uid":"Task107_Example_ml_reg_case868",
     "text":"Subject describes severe headaches, indication of chronic fatigue syndrome. I: Subject describes normal of 3.4 mm. II: Case involves lesion of 4.4mm. III: Subject describes other structure of size 19mm. IV: Case involves lesion of 15 mm. V: Patient presents with normal of 8.1cm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       3.0,
@@ -1471,10 +1604,11 @@
       19.0,
       15.0,
       81.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case876",
+    "uid":"Task107_Example_ml_reg_case876",
     "text":"Case involves shortness of breath, potential thyroid disorder. I: Case involves normal of 17mm. II: Patient presents with other structure of size 15 mm. III: Patient presents with lesion of 11 mm. IV: Case involves normal of 19 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       17.0,
@@ -1482,10 +1616,11 @@
       11.0,
       19.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case884",
+    "uid":"Task107_Example_ml_reg_case884",
     "text":"Patient presents with severe headaches, possible bacterial infection. I: Individual reports normal of 19mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       19.0,
@@ -1493,10 +1628,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case902",
+    "uid":"Task107_Example_ml_reg_case902",
     "text":"Case involves severe headaches, potential thyroid disorder. I: Patient presents with other structure of size 15 cm. II: Patient presents with lesion of 19 mm. III: Patient presents with normal of 18mm. IV: Subject describes normal of 2.8mm. V: Case involves normal of 5.3 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       150.0,
@@ -1504,10 +1640,11 @@
       18.0,
       3.0,
       5.0
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case903",
+    "uid":"Task107_Example_ml_reg_case903",
     "text":"Patient presents with mild to moderate chest pain, early signs of diabetes. I: Patient presents with lesion of 5.0 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       5.0,
@@ -1515,10 +1652,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case907",
+    "uid":"Task107_Example_ml_reg_case907",
     "text":"Patient presents with sudden weight loss, symptoms of seasonal allergies. I: Case involves lesion of 19mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       19.0,
@@ -1526,10 +1664,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case912",
+    "uid":"Task107_Example_ml_reg_case912",
     "text":"Individual reports mild to moderate chest pain, symptoms of seasonal allergies. I: Individual reports lesion of 9.2 mm. II: Subject describes other structure of size 8.9 mm. III: Individual reports other structure of size 3.6mm. IV: Subject describes other structure of size 4.7cm. Advise regular exercise. ",
     "multi_label_regression_target":[
       9.0,
@@ -1537,10 +1676,11 @@
       4.0,
       47.0,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case920",
+    "uid":"Task107_Example_ml_reg_case920",
     "text":"Patient presents with sudden weight loss, possible bacterial infection. I: Individual reports lesion of 17mm. II: Case involves normal of 9.7mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       17.0,
@@ -1548,10 +1688,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case934",
+    "uid":"Task107_Example_ml_reg_case934",
     "text":"Patient presents with sudden weight loss, symptoms of seasonal allergies. I: Subject describes lesion of 17cm. II: Subject describes lesion of 15mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       173.0,
@@ -1559,10 +1700,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case942",
+    "uid":"Task107_Example_ml_reg_case942",
     "text":"Patient presents with persistent cough, indication of chronic fatigue syndrome. I: Case involves normal of 18mm. II: Individual reports lesion of 9.7 mm. III: Case involves normal of 2.6mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       18.0,
@@ -1570,10 +1712,11 @@
       3.0,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case945",
+    "uid":"Task107_Example_ml_reg_case945",
     "text":"Patient presents with chronic fatigue, likely viral infection. I: Subject describes other structure of size 18 cm. II: Subject describes lesion of 2.9 mm. III: Patient presents with normal of 2.6 mm. IV: Patient presents with other structure of size 14 mm. V: Patient presents with normal of 10mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       183.0,
@@ -1581,10 +1724,11 @@
       3.0,
       14.0,
       10.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case959",
+    "uid":"Task107_Example_ml_reg_case959",
     "text":"Patient presents with severe headaches, potential thyroid disorder. I: Subject describes lesion of 5.7 mm. II: Subject describes lesion of 19 mm. III: Individual reports other structure of size 14mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       6.0,
@@ -1592,10 +1736,11 @@
       14.0,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case963",
+    "uid":"Task107_Example_ml_reg_case963",
     "text":"Individual reports chronic fatigue, likely viral infection. I: Subject describes other structure of size 2.2mm. II: Individual reports other structure of size 1.4mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       2.0,
@@ -1603,10 +1748,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case971",
+    "uid":"Task107_Example_ml_reg_case971",
     "text":"Case involves mild to moderate chest pain, likely viral infection. I: Subject describes lesion of 9.5mm. II: Individual reports other structure of size 16 mm. III: Subject describes normal of 17cm. IV: Case involves lesion of 20 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       10.0,
@@ -1614,10 +1760,11 @@
       172.0,
       20.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case975",
+    "uid":"Task107_Example_ml_reg_case975",
     "text":"Subject describes severe headaches, potential thyroid disorder. I: Patient presents with normal of 7.0 mm. II: Subject describes normal of 19 mm. III: Case involves lesion of 8.6 mm. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Suggest dietary changes. Recommend further testing. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Suggest dietary changes. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Suggest dietary changes. Schedule follow-up in two weeks. Suggest dietary changes. Suggest dietary changes. Schedule follow-up in two weeks. Recommend further testing. Prescribe rest and over-the-counter medication. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Suggest dietary changes. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise regular exercise. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Recommend further testing. Schedule follow-up in two weeks. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise patient to increase fluid intake. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Suggest dietary changes. Advise regular exercise. Recommend further testing. Recommend further testing. Recommend further testing. Recommend further testing. Recommend further testing. Recommend further testing. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Suggest dietary changes. Suggest dietary changes. Suggest dietary changes. Advise patient to increase fluid intake. Suggest dietary changes. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Suggest dietary changes. Suggest dietary changes. Advise regular exercise. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Recommend further testing. Advise regular exercise. Advise regular exercise. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Advise regular exercise. Advise regular exercise. Advise regular exercise. Suggest dietary changes.",
     "multi_label_regression_target":[
       7.0,
@@ -1625,10 +1772,11 @@
       9.0,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case988",
+    "uid":"Task107_Example_ml_reg_case988",
     "text":"Individual reports intermittent fever, likely viral infection. I: Case involves lesion of 2.3 mm. II: Patient presents with normal of 18 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       2.0,
@@ -1636,10 +1784,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1007",
+    "uid":"Task107_Example_ml_reg_case1007",
     "text":"Case involves persistent cough, potential thyroid disorder. I: Individual reports lesion of 4.5mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       4.0,
@@ -1647,10 +1796,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case1025",
+    "uid":"Task107_Example_ml_reg_case1025",
     "text":"Case involves mild to moderate chest pain, potential thyroid disorder. I: Individual reports lesion of 4.2 mm. II: Subject describes lesion of 16cm. III: Patient presents with other structure of size 11mm. IV: Individual reports lesion of 5.3mm. Schedule follow-up in two weeks. Advise regular exercise. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise regular exercise. Recommend further testing. Prescribe rest and over-the-counter medication. Advise regular exercise. Recommend further testing. Schedule follow-up in two weeks. Advise regular exercise. Recommend further testing. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Prescribe rest and over-the-counter medication. Advise regular exercise. Suggest dietary changes. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise regular exercise. Prescribe rest and over-the-counter medication. Suggest dietary changes. Suggest dietary changes. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise regular exercise. Advise regular exercise. Advise regular exercise. Recommend further testing. Suggest dietary changes. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise regular exercise. Advise patient to increase fluid intake. Suggest dietary changes. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Recommend further testing. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise regular exercise. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise regular exercise. Suggest dietary changes. Recommend further testing. Recommend further testing. Suggest dietary changes. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Suggest dietary changes. Recommend further testing. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise regular exercise. Prescribe rest and over-the-counter medication. Suggest dietary changes.",
     "multi_label_regression_target":[
       4.0,
@@ -1658,10 +1808,11 @@
       11.0,
       5.0,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1030",
+    "uid":"Task107_Example_ml_reg_case1030",
     "text":"Individual reports severe headaches, possible bacterial infection. I: Individual reports normal of 19mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       19.0,
@@ -1669,10 +1820,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case1045",
+    "uid":"Task107_Example_ml_reg_case1045",
     "text":"Subject describes severe headaches, likely viral infection. I: Subject describes lesion of 11 cm. II: Individual reports normal of 8.9mm. III: Case involves lesion of 8.5 cm. IV: Individual reports other structure of size 15 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       109.0,
@@ -1680,10 +1832,11 @@
       85.0,
       15.0,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1054",
+    "uid":"Task107_Example_ml_reg_case1054",
     "text":"Case involves intermittent fever, indication of chronic fatigue syndrome. I: Case involves lesion of 11mm. II: Case involves lesion of 12mm. III: Subject describes lesion of 11 cm. IV: Patient presents with other structure of size 9.4 cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       11.0,
@@ -1691,10 +1844,11 @@
       114.0,
       94.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case1069",
+    "uid":"Task107_Example_ml_reg_case1069",
     "text":"Patient presents with severe headaches, possible bacterial infection. I: Individual reports normal of 16 cm. II: Patient presents with normal of 4.9 cm. III: Subject describes lesion of 11mm. IV: Patient presents with other structure of size 8.8mm. V: Patient presents with lesion of 5.9 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       157.0,
@@ -1702,10 +1856,11 @@
       11.0,
       9.0,
       6.0
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case1100",
+    "uid":"Task107_Example_ml_reg_case1100",
     "text":"Case involves shortness of breath, likely viral infection. I: Subject describes other structure of size 3.8mm. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Suggest dietary changes. Suggest dietary changes. Suggest dietary changes. Advise regular exercise. Schedule follow-up in two weeks. Advise regular exercise. Recommend further testing. Suggest dietary changes. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Schedule follow-up in two weeks. Suggest dietary changes. Schedule follow-up in two weeks. Recommend further testing. Prescribe rest and over-the-counter medication. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise regular exercise. Prescribe rest and over-the-counter medication. Recommend further testing. Advise patient to increase fluid intake. Recommend further testing. Advise regular exercise. Advise regular exercise. Suggest dietary changes. Suggest dietary changes. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Recommend further testing. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Suggest dietary changes. Advise regular exercise. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication.",
     "multi_label_regression_target":[
       4.0,
@@ -1713,10 +1868,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1104",
+    "uid":"Task107_Example_ml_reg_case1104",
     "text":"Individual reports chronic fatigue, likely viral infection. I: Subject describes lesion of 19mm. II: Case involves lesion of 17 mm. III: Individual reports lesion of 9.7 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       19.0,
@@ -1724,10 +1880,11 @@
       10.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1109",
+    "uid":"Task107_Example_ml_reg_case1109",
     "text":"Subject describes sudden weight loss, likely viral infection. I: Individual reports normal of 17cm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       170.0,
@@ -1735,10 +1892,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case1118",
+    "uid":"Task107_Example_ml_reg_case1118",
     "text":"Individual reports shortness of breath, indication of chronic fatigue syndrome. I: Individual reports normal of 7.3cm. II: Individual reports lesion of 10mm. III: Individual reports other structure of size 12mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       73.0,
@@ -1746,10 +1904,11 @@
       12.0,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case1126",
+    "uid":"Task107_Example_ml_reg_case1126",
     "text":"Patient presents with severe headaches, indication of chronic fatigue syndrome. I: Individual reports normal of 10mm. II: Case involves lesion of 5.5 mm. III: Individual reports lesion of 19 cm. IV: Individual reports lesion of 14mm. V: Case involves lesion of 12cm. Recommend further testing. ",
     "multi_label_regression_target":[
       10.0,
@@ -1757,10 +1916,11 @@
       192.0,
       14.0,
       121.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case1130",
+    "uid":"Task107_Example_ml_reg_case1130",
     "text":"Subject describes mild to moderate chest pain, likely viral infection. I: Case involves other structure of size 9.2cm. II: Subject describes lesion of 3.6mm. III: Subject describes lesion of 15mm. IV: Subject describes lesion of 11mm. V: Subject describes normal of 1.3mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       92.0,
@@ -1768,10 +1928,11 @@
       15.0,
       11.0,
       1.0
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case1136",
+    "uid":"Task107_Example_ml_reg_case1136",
     "text":"Individual reports sudden weight loss, early signs of diabetes. I: Case involves normal of 20 mm. II: Patient presents with lesion of 1.1 mm. III: Subject describes normal of 9.5 mm. IV: Subject describes lesion of 18cm. Advise regular exercise. ",
     "multi_label_regression_target":[
       20.0,
@@ -1779,10 +1940,11 @@
       10.0,
       181.0,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case1166",
+    "uid":"Task107_Example_ml_reg_case1166",
     "text":"Subject describes chronic fatigue, symptoms of seasonal allergies. I: Case involves other structure of size 4.4mm. II: Case involves normal of 19mm. III: Subject describes lesion of 6.8mm. IV: Individual reports normal of 16 mm. V: Subject describes other structure of size 17mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       4.0,
@@ -1790,10 +1952,11 @@
       7.0,
       16.0,
       17.0
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1174",
+    "uid":"Task107_Example_ml_reg_case1174",
     "text":"Individual reports chronic fatigue, early signs of diabetes. I: Individual reports normal of 8.5 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       8.0,
@@ -1801,10 +1964,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1179",
+    "uid":"Task107_Example_ml_reg_case1179",
     "text":"Subject describes mild to moderate chest pain, indication of chronic fatigue syndrome. I: Subject describes lesion of 5.3cm. II: Subject describes lesion of 4.0 mm. III: Case involves other structure of size 19mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       53.0,
@@ -1812,10 +1976,11 @@
       19.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1186",
+    "uid":"Task107_Example_ml_reg_case1186",
     "text":"Individual reports intermittent fever, possible bacterial infection. I: Individual reports lesion of 11 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       11.0,
@@ -1823,10 +1988,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1189",
+    "uid":"Task107_Example_ml_reg_case1189",
     "text":"Case involves chronic fatigue, early signs of diabetes. I: Patient presents with lesion of 9.2 mm. II: Subject describes normal of 6.0 mm. III: Individual reports lesion of 14mm. IV: Patient presents with normal of 12 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       9.0,
@@ -1834,10 +2000,11 @@
       14.0,
       12.0,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case1194",
+    "uid":"Task107_Example_ml_reg_case1194",
     "text":"Patient presents with mild to moderate chest pain, possible bacterial infection. I: Patient presents with normal of 4.1 mm. II: Patient presents with normal of 9.3mm. III: Case involves normal of 1.6mm. Recommend further testing. ",
     "multi_label_regression_target":[
       4.0,
@@ -1845,10 +2012,11 @@
       2.0,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1212",
+    "uid":"Task107_Example_ml_reg_case1212",
     "text":"Patient presents with persistent cough, early signs of diabetes. I: Case involves lesion of 18mm. II: Subject describes normal of 6.0mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       18.0,
@@ -1856,10 +2024,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"3"
   },
   {
-    "uid":"Task107_case1221",
+    "uid":"Task107_Example_ml_reg_case1221",
     "text":"Individual reports intermittent fever, likely viral infection. I: Individual reports lesion of 11 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       11.0,
@@ -1867,10 +2036,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case1226",
+    "uid":"Task107_Example_ml_reg_case1226",
     "text":"Individual reports mild to moderate chest pain, indication of chronic fatigue syndrome. I: Subject describes normal of 6.1mm. II: Individual reports other structure of size 4.9mm. III: Patient presents with normal of 14mm. IV: Individual reports normal of 1.7mm. V: Individual reports lesion of 15 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       6.0,
@@ -1878,10 +2048,11 @@
       14.0,
       2.0,
       15.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1241",
+    "uid":"Task107_Example_ml_reg_case1241",
     "text":"Individual reports severe headaches, potential thyroid disorder. I: Patient presents with lesion of 16 mm. II: Subject describes normal of 2.9 mm. III: Individual reports lesion of 13mm. IV: Case involves other structure of size 18 mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       16.0,
@@ -1889,10 +2060,11 @@
       13.0,
       18.0,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1253",
+    "uid":"Task107_Example_ml_reg_case1253",
     "text":"Case involves intermittent fever, indication of chronic fatigue syndrome. I: Patient presents with normal of 11cm. II: Case involves lesion of 16 cm. III: Patient presents with normal of 2.8 mm. IV: Case involves normal of 8.4mm. V: Individual reports normal of 19cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       113.0,
@@ -1900,10 +2072,11 @@
       3.0,
       8.0,
       194.0
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case1257",
+    "uid":"Task107_Example_ml_reg_case1257",
     "text":"Patient presents with chronic fatigue, likely viral infection. I: Patient presents with normal of 15mm. II: Subject describes lesion of 15 mm. III: Individual reports normal of 20 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       15.0,
@@ -1911,10 +2084,11 @@
       20.0,
       null,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case1260",
+    "uid":"Task107_Example_ml_reg_case1260",
     "text":"Patient presents with sudden weight loss, potential thyroid disorder. I: Subject describes normal of 17mm. II: Individual reports normal of 15mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       17.0,
@@ -1922,10 +2096,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1264",
+    "uid":"Task107_Example_ml_reg_case1264",
     "text":"Case involves sudden weight loss, early signs of diabetes. I: Patient presents with normal of 1.9mm. Recommend further testing. ",
     "multi_label_regression_target":[
       2.0,
@@ -1933,10 +2108,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case1267",
+    "uid":"Task107_Example_ml_reg_case1267",
     "text":"Subject describes sudden weight loss, possible bacterial infection. I: Subject describes lesion of 8.7mm. II: Subject describes normal of 18mm. III: Individual reports normal of 10mm. IV: Individual reports normal of 12mm. V: Patient presents with normal of 13 mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       9.0,
@@ -1944,10 +2120,11 @@
       10.0,
       12.0,
       13.0
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1274",
+    "uid":"Task107_Example_ml_reg_case1274",
     "text":"Individual reports persistent cough, indication of chronic fatigue syndrome. I: Subject describes normal of 20 cm. II: Case involves other structure of size 11cm. Recommend further testing. ",
     "multi_label_regression_target":[
       196.0,
@@ -1955,10 +2132,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case1277",
+    "uid":"Task107_Example_ml_reg_case1277",
     "text":"Case involves severe headaches, likely viral infection. I: Patient presents with lesion of 3.5mm. II: Individual reports other structure of size 9.0 mm. III: Patient presents with lesion of 5.2 mm. IV: Case involves normal of 11 cm. V: Patient presents with other structure of size 4.3mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       4.0,
@@ -1966,10 +2144,11 @@
       5.0,
       107.0,
       4.0
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case1306",
+    "uid":"Task107_Example_ml_reg_case1306",
     "text":"Subject describes mild to moderate chest pain, symptoms of seasonal allergies. I: Individual reports normal of 2.9mm. II: Patient presents with lesion of 7.2mm. Recommend further testing. ",
     "multi_label_regression_target":[
       3.0,
@@ -1977,10 +2156,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1310",
+    "uid":"Task107_Example_ml_reg_case1310",
     "text":"Patient presents with mild to moderate chest pain, symptoms of seasonal allergies. I: Subject describes lesion of 8.1cm. II: Case involves normal of 17 mm. III: Subject describes lesion of 17 cm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       81.0,
@@ -1988,10 +2168,11 @@
       167.0,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case1313",
+    "uid":"Task107_Example_ml_reg_case1313",
     "text":"Patient presents with intermittent fever, likely viral infection. I: Subject describes normal of 2.2 mm. II: Subject describes other structure of size 13 cm. Recommend further testing. ",
     "multi_label_regression_target":[
       2.0,
@@ -1999,10 +2180,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1314",
+    "uid":"Task107_Example_ml_reg_case1314",
     "text":"Individual reports shortness of breath, indication of chronic fatigue syndrome. I: Patient presents with lesion of 4.9 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       5.0,
@@ -2010,10 +2192,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1322",
+    "uid":"Task107_Example_ml_reg_case1322",
     "text":"Subject describes mild to moderate chest pain, potential thyroid disorder. I: Individual reports lesion of 11 cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       112.0,
@@ -2021,10 +2204,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1328",
+    "uid":"Task107_Example_ml_reg_case1328",
     "text":"Patient presents with severe headaches, likely viral infection. I: Case involves lesion of 12cm. II: Individual reports other structure of size 2.2mm. III: Patient presents with normal of 11 cm. IV: Individual reports normal of 17cm. Recommend further testing. ",
     "multi_label_regression_target":[
       116.0,
@@ -2032,10 +2216,11 @@
       105.0,
       175.0,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case1335",
+    "uid":"Task107_Example_ml_reg_case1335",
     "text":"Case involves sudden weight loss, early signs of diabetes. I: Subject describes lesion of 9.8 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       10.0,
@@ -2043,10 +2228,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case1342",
+    "uid":"Task107_Example_ml_reg_case1342",
     "text":"Case involves chronic fatigue, potential thyroid disorder. I: Case involves normal of 4.8mm. II: Patient presents with normal of 13 mm. III: Subject describes lesion of 16 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       5.0,
@@ -2054,10 +2240,11 @@
       16.0,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1353",
+    "uid":"Task107_Example_ml_reg_case1353",
     "text":"Case involves sudden weight loss, potential thyroid disorder. I: Subject describes lesion of 3.9 mm. II: Patient presents with other structure of size 6.4mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       4.0,
@@ -2065,10 +2252,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case1360",
+    "uid":"Task107_Example_ml_reg_case1360",
     "text":"Case involves severe headaches, early signs of diabetes. I: Patient presents with normal of 6.3 cm. II: Individual reports normal of 1.8cm. III: Patient presents with lesion of 14mm. IV: Subject describes other structure of size 18cm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       63.0,
@@ -2076,10 +2264,11 @@
       14.0,
       179.0,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1371",
+    "uid":"Task107_Example_ml_reg_case1371",
     "text":"Individual reports chronic fatigue, potential thyroid disorder. I: Case involves other structure of size 3.5 cm. II: Subject describes other structure of size 20mm. III: Case involves other structure of size 3.9cm. IV: Subject describes normal of 15cm. V: Individual reports lesion of 5.5mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       35.0,
@@ -2087,10 +2276,11 @@
       39.0,
       147.0,
       5.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1372",
+    "uid":"Task107_Example_ml_reg_case1372",
     "text":"Patient presents with mild to moderate chest pain, potential thyroid disorder. I: Patient presents with lesion of 2.8mm. II: Individual reports normal of 8.1mm. III: Patient presents with lesion of 12mm. Recommend further testing. ",
     "multi_label_regression_target":[
       3.0,
@@ -2098,10 +2288,11 @@
       12.0,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case1380",
+    "uid":"Task107_Example_ml_reg_case1380",
     "text":"Case involves sudden weight loss, potential thyroid disorder. I: Individual reports normal of 16 mm. II: Individual reports other structure of size 15mm. III: Patient presents with lesion of 13cm. IV: Case involves lesion of 2.6mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       16.0,
@@ -2109,10 +2300,11 @@
       130.0,
       3.0,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case1384",
+    "uid":"Task107_Example_ml_reg_case1384",
     "text":"Subject describes intermittent fever, indication of chronic fatigue syndrome. I: Subject describes lesion of 5.5cm. Recommend further testing. ",
     "multi_label_regression_target":[
       55.0,
@@ -2120,10 +2312,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1403",
+    "uid":"Task107_Example_ml_reg_case1403",
     "text":"Patient presents with chronic fatigue, symptoms of seasonal allergies. I: Patient presents with other structure of size 7.5 mm. II: Case involves lesion of 18cm. Recommend further testing. ",
     "multi_label_regression_target":[
       7.0,
@@ -2131,10 +2324,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case1406",
+    "uid":"Task107_Example_ml_reg_case1406",
     "text":"Individual reports severe headaches, possible bacterial infection. I: Case involves lesion of 11mm. II: Case involves other structure of size 1.6mm. III: Subject describes other structure of size 16 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       11.0,
@@ -2142,10 +2336,11 @@
       16.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1408",
+    "uid":"Task107_Example_ml_reg_case1408",
     "text":"Individual reports mild to moderate chest pain, indication of chronic fatigue syndrome. I: Case involves normal of 17 mm. II: Individual reports other structure of size 1.7cm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       17.0,
@@ -2153,10 +2348,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1415",
+    "uid":"Task107_Example_ml_reg_case1415",
     "text":"Case involves chronic fatigue, likely viral infection. I: Subject describes normal of 8.2mm. II: Case involves normal of 2.3mm. III: Patient presents with other structure of size 11cm. IV: Individual reports other structure of size 17 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       8.0,
@@ -2164,10 +2360,11 @@
       113.0,
       17.0,
       null
-    ]
+    ],
+    "center":"7"
   },
   {
-    "uid":"Task107_case1428",
+    "uid":"Task107_Example_ml_reg_case1428",
     "text":"Patient presents with persistent cough, possible bacterial infection. I: Case involves lesion of 6.4 mm. II: Patient presents with lesion of 14 mm. Recommend further testing. ",
     "multi_label_regression_target":[
       6.0,
@@ -2175,10 +2372,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case1431",
+    "uid":"Task107_Example_ml_reg_case1431",
     "text":"Patient presents with mild to moderate chest pain, indication of chronic fatigue syndrome. I: Patient presents with lesion of 7.2mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       7.0,
@@ -2186,10 +2384,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1437",
+    "uid":"Task107_Example_ml_reg_case1437",
     "text":"Case involves mild to moderate chest pain, symptoms of seasonal allergies. I: Case involves lesion of 2.0mm. II: Case involves lesion of 13mm. III: Subject describes lesion of 19mm. IV: Subject describes lesion of 4.2 mm. V: Patient presents with normal of 18 mm. Schedule follow-up in two weeks. ",
     "multi_label_regression_target":[
       2.0,
@@ -2197,10 +2396,11 @@
       19.0,
       4.0,
       18.0
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case1441",
+    "uid":"Task107_Example_ml_reg_case1441",
     "text":"Individual reports severe headaches, likely viral infection. I: Individual reports normal of 8.8cm. II: Case involves normal of 6.0 cm. III: Patient presents with lesion of 6.1 mm. IV: Patient presents with normal of 19 mm. V: Patient presents with other structure of size 4.1mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       88.0,
@@ -2208,10 +2408,11 @@
       6.0,
       19.0,
       4.0
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1454",
+    "uid":"Task107_Example_ml_reg_case1454",
     "text":"Subject describes sudden weight loss, potential thyroid disorder. I: Subject describes normal of 16mm. II: Subject describes normal of 14mm. III: Patient presents with normal of 9.6 mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       16.0,
@@ -2219,10 +2420,11 @@
       10.0,
       null,
       null
-    ]
+    ],
+    "center":"1"
   },
   {
-    "uid":"Task107_case1457",
+    "uid":"Task107_Example_ml_reg_case1457",
     "text":"Case involves sudden weight loss, potential thyroid disorder. I: Patient presents with lesion of 6.2cm. II: Case involves normal of 18 mm. III: Case involves normal of 3.4mm. IV: Patient presents with normal of 2.0 mm. V: Patient presents with lesion of 11 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       62.0,
@@ -2230,10 +2432,11 @@
       3.0,
       2.0,
       11.0
-    ]
+    ],
+    "center":"6"
   },
   {
-    "uid":"Task107_case1458",
+    "uid":"Task107_Example_ml_reg_case1458",
     "text":"Individual reports severe headaches, symptoms of seasonal allergies. I: Case involves lesion of 18 mm. II: Case involves normal of 18 mm. III: Case involves normal of 8.0mm. IV: Case involves lesion of 15 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       18.0,
@@ -2241,10 +2444,11 @@
       8.0,
       15.0,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1462",
+    "uid":"Task107_Example_ml_reg_case1462",
     "text":"Case involves intermittent fever, possible bacterial infection. I: Individual reports lesion of 20mm. II: Individual reports other structure of size 1.7cm. III: Patient presents with normal of 1.7cm. IV: Subject describes other structure of size 14cm. V: Individual reports lesion of 18 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       20.0,
@@ -2252,10 +2456,11 @@
       17.0,
       137.0,
       18.0
-    ]
+    ],
+    "center":"5"
   },
   {
-    "uid":"Task107_case1465",
+    "uid":"Task107_Example_ml_reg_case1465",
     "text":"Case involves sudden weight loss, early signs of diabetes. I: Individual reports lesion of 16mm. II: Patient presents with normal of 7.9 mm. III: Individual reports other structure of size 19mm. IV: Patient presents with lesion of 3.7 mm. Prescribe rest and over-the-counter medication. ",
     "multi_label_regression_target":[
       16.0,
@@ -2263,10 +2468,11 @@
       19.0,
       4.0,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case1467",
+    "uid":"Task107_Example_ml_reg_case1467",
     "text":"Subject describes mild to moderate chest pain, possible bacterial infection. I: Individual reports other structure of size 8.3mm. II: Individual reports normal of 12cm. Recommend further testing. ",
     "multi_label_regression_target":[
       8.0,
@@ -2274,10 +2480,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"2"
   },
   {
-    "uid":"Task107_case1481",
+    "uid":"Task107_Example_ml_reg_case1481",
     "text":"Subject describes persistent cough, symptoms of seasonal allergies. I: Subject describes lesion of 1.9mm. II: Subject describes normal of 7.4mm. III: Case involves lesion of 18mm. Suggest dietary changes. ",
     "multi_label_regression_target":[
       2.0,
@@ -2285,10 +2492,11 @@
       18.0,
       null,
       null
-    ]
+    ],
+    "center":"0"
   },
   {
-    "uid":"Task107_case1494",
+    "uid":"Task107_Example_ml_reg_case1494",
     "text":"Individual reports sudden weight loss, symptoms of seasonal allergies. I: Patient presents with other structure of size 14mm. Advise regular exercise. ",
     "multi_label_regression_target":[
       14.0,
@@ -2296,10 +2504,11 @@
       null,
       null,
       null
-    ]
+    ],
+    "center":"4"
   },
   {
-    "uid":"Task107_case1497",
+    "uid":"Task107_Example_ml_reg_case1497",
     "text":"Patient presents with mild to moderate chest pain, potential thyroid disorder. I: Case involves normal of 15mm. II: Patient presents with normal of 9.0 mm. III: Patient presents with normal of 6.5mm. IV: Patient presents with normal of 7.2mm. V: Subject describes lesion of 3.8mm. Advise patient to increase fluid intake. ",
     "multi_label_regression_target":[
       15.0,
@@ -2307,6 +2516,7 @@
       6.0,
       7.0,
       4.0
-    ]
+    ],
+    "center":"0"
   }
 ]

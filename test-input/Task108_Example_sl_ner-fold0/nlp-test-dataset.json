@@ -1,6 +1,7 @@
 [
   {
-    "uid":"Task108_case0",
+    "uid":"Task108_Example_sl_ner_case0",
+    "center":"1",
     "text_parts":[
       "Patient",
       "presents",
@@ -489,7 +490,8 @@
     ]
   },
   {
-    "uid":"Task108_case4",
+    "uid":"Task108_Example_sl_ner_case4",
+    "center":"1",
     "text_parts":[
       "Case",
       "involves",
@@ -596,7 +598,8 @@
     ]
   },
   {
-    "uid":"Task108_case9",
+    "uid":"Task108_Example_sl_ner_case9",
+    "center":"0",
     "text_parts":[
       "Case",
       "involves",
@@ -691,7 +694,8 @@
     ]
   },
   {
-    "uid":"Task108_case10",
+    "uid":"Task108_Example_sl_ner_case10",
+    "center":"1",
     "text_parts":[
       "Individual",
       "reports",
@@ -1169,7 +1173,8 @@
     ]
   },
   {
-    "uid":"Task108_case12",
+    "uid":"Task108_Example_sl_ner_case12",
+    "center":"0",
     "text_parts":[
       "Subject",
       "describes",
@@ -1233,7 +1238,8 @@
     ]
   },
   {
-    "uid":"Task108_case15",
+    "uid":"Task108_Example_sl_ner_case15",
+    "center":"1",
     "text_parts":[
       "Patient",
       "presents",
@@ -1349,7 +1355,8 @@
     ]
   },
   {
-    "uid":"Task108_case18",
+    "uid":"Task108_Example_sl_ner_case18",
+    "center":"1",
     "text_parts":[
       "Case",
       "involves",
@@ -1408,7 +1415,8 @@
     ]
   },
   {
-    "uid":"Task108_case22",
+    "uid":"Task108_Example_sl_ner_case22",
+    "center":"1",
     "text_parts":[
       "Individual",
       "reports",
@@ -1490,7 +1498,8 @@
     ]
   },
   {
-    "uid":"Task108_case26",
+    "uid":"Task108_Example_sl_ner_case26",
+    "center":"0",
     "text_parts":[
       "Individual",
       "reports",
@@ -1583,7 +1592,8 @@
     ]
   },
   {
-    "uid":"Task108_case30",
+    "uid":"Task108_Example_sl_ner_case30",
+    "center":"1",
     "text_parts":[
       "Individual",
       "reports",
@@ -2066,7 +2076,8 @@
     ]
   },
   {
-    "uid":"Task108_case31",
+    "uid":"Task108_Example_sl_ner_case31",
+    "center":"0",
     "text_parts":[
       "Case",
       "involves",
@@ -2162,7 +2173,8 @@
     ]
   },
   {
-    "uid":"Task108_case33",
+    "uid":"Task108_Example_sl_ner_case33",
+    "center":"1",
     "text_parts":[
       "Patient",
       "presents",
@@ -2294,7 +2306,8 @@
     ]
   },
   {
-    "uid":"Task108_case39",
+    "uid":"Task108_Example_sl_ner_case39",
+    "center":"0",
     "text_parts":[
       "Individual",
       "reports",
@@ -2375,7 +2388,8 @@
     ]
   },
   {
-    "uid":"Task108_case40",
+    "uid":"Task108_Example_sl_ner_case40",
+    "center":"1",
     "text_parts":[
       "Case",
       "involves",
@@ -2913,7 +2927,8 @@
     ]
   },
   {
-    "uid":"Task108_case42",
+    "uid":"Task108_Example_sl_ner_case42",
+    "center":"0",
     "text_parts":[
       "Case",
       "involves",
@@ -3013,7 +3028,8 @@
     ]
   },
   {
-    "uid":"Task108_case44",
+    "uid":"Task108_Example_sl_ner_case44",
+    "center":"0",
     "text_parts":[
       "Patient",
       "presents",
@@ -3095,7 +3111,8 @@
     ]
   },
   {
-    "uid":"Task108_case45",
+    "uid":"Task108_Example_sl_ner_case45",
+    "center":"1",
     "text_parts":[
       "Subject",
       "describes",
@@ -3148,7 +3165,8 @@
     ]
   },
   {
-    "uid":"Task108_case53",
+    "uid":"Task108_Example_sl_ner_case53",
+    "center":"0",
     "text_parts":[
       "Individual",
       "reports",
@@ -3243,7 +3261,8 @@
     ]
   },
   {
-    "uid":"Task108_case55",
+    "uid":"Task108_Example_sl_ner_case55",
+    "center":"1",
     "text_parts":[
       "Individual",
       "reports",
@@ -3330,7 +3349,8 @@
     ]
   },
   {
-    "uid":"Task108_case69",
+    "uid":"Task108_Example_sl_ner_case69",
+    "center":"1",
     "text_parts":[
       "Case",
       "involves",
@@ -3452,7 +3472,8 @@
     ]
   },
   {
-    "uid":"Task108_case70",
+    "uid":"Task108_Example_sl_ner_case70",
+    "center":"1",
     "text_parts":[
       "Case",
       "involves",
@@ -3921,7 +3942,8 @@
     ]
   },
   {
-    "uid":"Task108_case72",
+    "uid":"Task108_Example_sl_ner_case72",
+    "center":"1",
     "text_parts":[
       "Patient",
       "presents",
@@ -4020,7 +4042,8 @@
     ]
   },
   {
-    "uid":"Task108_case73",
+    "uid":"Task108_Example_sl_ner_case73",
+    "center":"1",
     "text_parts":[
       "Case",
       "involves",
@@ -4130,7 +4153,8 @@
     ]
   },
   {
-    "uid":"Task108_case76",
+    "uid":"Task108_Example_sl_ner_case76",
+    "center":"1",
     "text_parts":[
       "Individual",
       "reports",
@@ -4191,7 +4215,8 @@
     ]
   },
   {
-    "uid":"Task108_case77",
+    "uid":"Task108_Example_sl_ner_case77",
+    "center":"1",
     "text_parts":[
       "Subject",
       "describes",
@@ -4279,7 +4304,8 @@
     ]
   },
   {
-    "uid":"Task108_case80",
+    "uid":"Task108_Example_sl_ner_case80",
+    "center":"1",
     "text_parts":[
       "Subject",
       "describes",
@@ -4786,7 +4812,8 @@
     ]
   },
   {
-    "uid":"Task108_case83",
+    "uid":"Task108_Example_sl_ner_case83",
+    "center":"1",
     "text_parts":[
       "Case",
       "involves",
@@ -4898,7 +4925,8 @@
     ]
   },
   {
-    "uid":"Task108_case88",
+    "uid":"Task108_Example_sl_ner_case88",
+    "center":"1",
     "text_parts":[
       "Patient",
       "presents",
@@ -4989,7 +5017,8 @@
     ]
   },
   {
-    "uid":"Task108_case90",
+    "uid":"Task108_Example_sl_ner_case90",
+    "center":"1",
     "text_parts":[
       "Subject",
       "describes",
@@ -5523,7 +5552,8 @@
     ]
   },
   {
-    "uid":"Task108_case96",
+    "uid":"Task108_Example_sl_ner_case96",
+    "center":"0",
     "text_parts":[
       "Patient",
       "presents",

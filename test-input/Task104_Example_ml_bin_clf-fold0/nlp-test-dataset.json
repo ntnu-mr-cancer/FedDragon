@@ -1,602 +1,752 @@
 [
   {
-    "uid":"Task104_case0",
+    "uid":"Task104_Example_ml_bin_clf_case0",
+    "center":"1",
     "text":"Patient presents with shortness of breath, likely viral infection. Subject describes other structure of 13 mm. Case involves other structure of 19 mm. Individual reports other structure of 10 mm. Subject describes lesion. Subject describes other structure of 3.7 cm. Case involves normal. Patient presents with normal of 12 mm. Subject describes normal. Prescribe rest and over-the-counter medication. Recommend further testing. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Recommend further testing. Recommend further testing. Advise patient to increase fluid intake. Suggest dietary changes. Suggest dietary changes. Suggest dietary changes. Suggest dietary changes. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise regular exercise. Suggest dietary changes. Recommend further testing. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise regular exercise. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise regular exercise. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Recommend further testing. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Suggest dietary changes. Schedule follow-up in two weeks. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Suggest dietary changes. Recommend further testing. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Suggest dietary changes. Advise patient to increase fluid intake. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Recommend further testing. Suggest dietary changes. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Advise regular exercise. Suggest dietary changes. Recommend further testing. Prescribe rest and over-the-counter medication. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Advise regular exercise. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing."
   },
   {
-    "uid":"Task104_case2",
+    "uid":"Task104_Example_ml_bin_clf_case2",
+    "center":"0",
     "text":"Patient presents with shortness of breath, likely viral infection. Subject describes normal. Patient presents with normal. Case involves other structure of 14 mm. Case involves lesion of 16 cm. Case involves normal of 4.4 cm. Patient presents with lesion. Subject describes normal of 12 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case9",
+    "uid":"Task104_Example_ml_bin_clf_case9",
+    "center":"0",
     "text":"Case involves chronic fatigue, potential thyroid disorder. Case involves lesion. Patient presents with lesion. Patient presents with other structure of 19 mm. Case involves normal. Individual reports normal of 14 mm. Individual reports normal of 13 mm. Individual reports other structure of 20 mm. Case involves lesion of 10 mm. Patient presents with other structure. Patient presents with normal. Patient presents with normal of 13 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case11",
+    "uid":"Task104_Example_ml_bin_clf_case11",
+    "center":"1",
     "text":"Individual reports mild to moderate chest pain, indication of chronic fatigue syndrome. Individual reports normal. Individual reports other structure of 17 mm. Individual reports normal of 3.1 cm. Individual reports normal of 15 mm. Individual reports lesion. Subject describes other structure. Subject describes lesion. Patient presents with normal of 16 mm. Subject describes other structure of 15 mm. Patient presents with normal. Individual reports lesion of 16 mm. Individual reports lesion of 10 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case15",
+    "uid":"Task104_Example_ml_bin_clf_case15",
+    "center":"1",
     "text":"Patient presents with shortness of breath, symptoms of seasonal allergies. Case involves lesion of 17 cm. Patient presents with normal. Individual reports other structure. Case involves other structure of 16 mm. Patient presents with normal of 16 mm. Patient presents with other structure. Subject describes other structure. Subject describes normal. Patient presents with normal of 12 cm. Patient presents with normal of 13 mm. Case involves normal of 3.5 cm. Case involves lesion. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case17",
+    "uid":"Task104_Example_ml_bin_clf_case17",
+    "center":"0",
     "text":"Subject describes severe headaches, possible bacterial infection. Individual reports normal. Subject describes lesion of 7.8 cm. Individual reports normal. Patient presents with normal of 11 mm. Case involves normal. Case involves normal of 16 mm. Case involves lesion of 14 mm. Patient presents with lesion of 4.8 cm. Patient presents with normal. Subject describes normal. Subject describes other structure. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case18",
+    "uid":"Task104_Example_ml_bin_clf_case18",
+    "center":"1",
     "text":"Case involves intermittent fever, likely viral infection. Individual reports lesion of 17 mm. Patient presents with normal of 12 cm. Subject describes normal of 17 mm. Individual reports lesion of 13 mm. Individual reports other structure. Subject describes other structure of 11 cm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case19",
+    "uid":"Task104_Example_ml_bin_clf_case19",
+    "center":"1",
     "text":"Individual reports sudden weight loss, potential thyroid disorder. Case involves normal. Patient presents with normal of 16 cm. Individual reports normal of 17 mm. Patient presents with lesion. Subject describes other structure. Patient presents with normal of 19 mm. Individual reports normal of 3.7 cm. Subject describes normal. Subject describes other structure of 15 mm. Case involves normal. Subject describes normal. Case involves lesion of 1.2 cm. Individual reports other structure of 15 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case22",
+    "uid":"Task104_Example_ml_bin_clf_case22",
+    "center":"0",
     "text":"Individual reports chronic fatigue, symptoms of seasonal allergies. Patient presents with normal of 16 cm. Case involves lesion of 14 mm. Patient presents with other structure. Case involves normal. Subject describes normal. Subject describes normal of 14 mm. Patient presents with lesion of 18 mm. Subject describes lesion of 19 cm. Subject describes other structure of 11 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case23",
+    "uid":"Task104_Example_ml_bin_clf_case23",
+    "center":"0",
     "text":"Subject describes sudden weight loss, likely viral infection. Case involves normal of 12 mm. Individual reports lesion. Individual reports normal of 15 cm. Subject describes normal of 12 cm. Individual reports normal of 12 mm. Patient presents with other structure of 13 mm. Individual reports other structure. Case involves normal of 18 mm. Patient presents with normal of 16 mm. Subject describes lesion of 2.5 cm. Subject describes lesion of 17 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case24",
+    "uid":"Task104_Example_ml_bin_clf_case24",
+    "center":"1",
     "text":"Case involves intermittent fever, likely viral infection. Subject describes lesion. Subject describes normal of 13 mm. Individual reports normal. Individual reports other structure of 15 mm. Case involves normal of 11 cm. Subject describes normal of 12 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case25",
+    "uid":"Task104_Example_ml_bin_clf_case25",
+    "center":"0",
     "text":"Patient presents with sudden weight loss, early signs of diabetes. Patient presents with lesion. Individual reports normal. Individual reports normal. Individual reports normal of 13 mm. Individual reports normal of 8.0 cm. Case involves lesion of 19 mm. Case involves normal of 12 mm. Case involves normal of 13 cm. Case involves other structure of 14 mm. Individual reports normal of 13 cm. Subject describes other structure of 17 mm. Schedule follow-up in two weeks. Recommend further testing. Advise regular exercise. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Recommend further testing. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Suggest dietary changes. Recommend further testing. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Advise regular exercise. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise regular exercise. Suggest dietary changes. Suggest dietary changes. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise regular exercise. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise regular exercise. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Recommend further testing."
   },
   {
-    "uid":"Task104_case30",
+    "uid":"Task104_Example_ml_bin_clf_case30",
+    "center":"0",
     "text":"Individual reports shortness of breath, potential thyroid disorder. Case involves normal of 13 mm. Individual reports other structure. Case involves normal. Individual reports normal of 19 mm. Individual reports lesion of 10 mm. Subject describes normal of 15 mm. Patient presents with normal of 11 cm. Patient presents with normal. Case involves normal of 13 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case31",
+    "uid":"Task104_Example_ml_bin_clf_case31",
+    "center":"1",
     "text":"Case involves mild to moderate chest pain, early signs of diabetes. Case involves lesion of 18 cm. Individual reports normal. Subject describes lesion. Subject describes normal. Subject describes normal. Individual reports other structure of 11 mm. Case involves lesion of 18 cm. Case involves normal. Subject describes normal of 18 mm. Case involves lesion. Individual reports normal of 15 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case33",
+    "uid":"Task104_Example_ml_bin_clf_case33",
+    "center":"0",
     "text":"Patient presents with mild to moderate chest pain, early signs of diabetes. Patient presents with lesion of 18 mm. Patient presents with other structure of 18 mm. Patient presents with other structure. Patient presents with lesion of 15 cm. Case involves normal. Subject describes normal. Patient presents with lesion of 2.5 cm. Case involves other structure of 14 mm. Subject describes other structure of 11 mm. Case involves lesion of 10 mm. Patient presents with lesion of 17 mm. Patient presents with normal. Subject describes normal of 16 mm. Subject describes normal of 20 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case39",
+    "uid":"Task104_Example_ml_bin_clf_case39",
+    "center":"0",
     "text":"Individual reports severe headaches, possible bacterial infection. Subject describes normal of 17 mm. Patient presents with normal. Patient presents with other structure of 11 mm. Individual reports normal of 17 cm. Subject describes normal. Case involves lesion of 17 mm. Patient presents with lesion of 17 mm. Patient presents with lesion of 11 mm. Patient presents with normal. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case42",
+    "uid":"Task104_Example_ml_bin_clf_case42",
+    "center":"1",
     "text":"Case involves intermittent fever, symptoms of seasonal allergies. Case involves normal. Case involves normal. Individual reports lesion of 19 cm. Individual reports lesion of 20 mm. Case involves normal. Case involves normal of 1.9 cm. Case involves normal of 16 mm. Case involves other structure of 9.9 cm. Subject describes lesion of 2.2 cm. Individual reports normal. Patient presents with normal. Individual reports other structure. Recommend further testing. "
   },
   {
-    "uid":"Task104_case46",
+    "uid":"Task104_Example_ml_bin_clf_case46",
+    "center":"1",
     "text":"Individual reports shortness of breath, likely viral infection. Subject describes normal of 6.9 cm. Case involves lesion. Case involves normal. Case involves lesion of 18 cm. Individual reports other structure. Subject describes normal of 5.5 cm. Patient presents with lesion of 20 mm. Patient presents with lesion. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case55",
+    "uid":"Task104_Example_ml_bin_clf_case55",
+    "center":"0",
     "text":"Individual reports persistent cough, likely viral infection. Subject describes normal of 6.4 cm. Patient presents with lesion of 14 mm. Patient presents with normal. Patient presents with normal. Individual reports normal of 17 mm. Subject describes normal. Individual reports normal of 16 mm. Case involves other structure of 9.7 cm. Individual reports normal. Individual reports lesion of 10 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case56",
+    "uid":"Task104_Example_ml_bin_clf_case56",
+    "center":"0",
     "text":"Individual reports chronic fatigue, likely viral infection. Subject describes lesion of 6.1 cm. Subject describes other structure. Individual reports lesion. Subject describes normal of 17 mm. Case involves normal of 14 mm. Patient presents with lesion. Patient presents with normal of 16 mm. Individual reports other structure of 11 cm. Case involves normal of 17 mm. Subject describes normal. Patient presents with normal of 19 cm. Case involves lesion of 15 mm. Case involves normal. Subject describes other structure of 6.4 cm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case57",
+    "uid":"Task104_Example_ml_bin_clf_case57",
+    "center":"1",
     "text":"Subject describes sudden weight loss, potential thyroid disorder. Patient presents with normal of 16 cm. Case involves other structure of 11 mm. Case involves normal of 16 mm. Individual reports lesion. Subject describes normal. Subject describes lesion of 20 mm. Patient presents with normal of 3.4 cm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case63",
+    "uid":"Task104_Example_ml_bin_clf_case63",
+    "center":"1",
     "text":"Patient presents with chronic fatigue, indication of chronic fatigue syndrome. Individual reports normal. Patient presents with normal of 15 cm. Individual reports lesion. Case involves normal of 19 mm. Patient presents with lesion of 18 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case66",
+    "uid":"Task104_Example_ml_bin_clf_case66",
+    "center":"1",
     "text":"Patient presents with chronic fatigue, indication of chronic fatigue syndrome. Individual reports other structure of 19 cm. Case involves normal. Patient presents with normal. Patient presents with other structure of 11 mm. Case involves other structure. Case involves lesion of 18 mm. Subject describes normal. Case involves lesion. Individual reports normal. Subject describes normal. Recommend further testing. "
   },
   {
-    "uid":"Task104_case68",
+    "uid":"Task104_Example_ml_bin_clf_case68",
+    "center":"1",
     "text":"Subject describes persistent cough, symptoms of seasonal allergies. Patient presents with normal. Subject describes lesion of 14 cm. Individual reports other structure. Patient presents with normal of 19 mm. Patient presents with normal. Recommend further testing. "
   },
   {
-    "uid":"Task104_case69",
+    "uid":"Task104_Example_ml_bin_clf_case69",
+    "center":"0",
     "text":"Case involves intermittent fever, possible bacterial infection. Case involves normal of 12 mm. Subject describes normal. Subject describes normal of 16 mm. Subject describes other structure of 14 mm. Individual reports lesion. Subject describes normal of 10 mm. Patient presents with lesion of 14 mm. Case involves lesion of 15 mm. Subject describes normal of 14 mm. Individual reports normal. Individual reports normal. Case involves normal of 15 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case70",
+    "uid":"Task104_Example_ml_bin_clf_case70",
+    "center":"1",
     "text":"Case involves sudden weight loss, early signs of diabetes. Subject describes lesion of 17 mm. Case involves normal of 10 mm. Individual reports normal. Subject describes lesion of 14 mm. Case involves normal. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case72",
+    "uid":"Task104_Example_ml_bin_clf_case72",
+    "center":"1",
     "text":"Patient presents with intermittent fever, early signs of diabetes. Individual reports normal. Individual reports lesion. Case involves normal. Subject describes normal of 13 mm. Individual reports normal. Subject describes lesion of 15 mm. Individual reports normal. Individual reports normal of 14 mm. Case involves lesion. Case involves lesion of 16 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case73",
+    "uid":"Task104_Example_ml_bin_clf_case73",
+    "center":"0",
     "text":"Case involves persistent cough, early signs of diabetes. Patient presents with normal of 10 mm. Individual reports other structure of 10 cm. Patient presents with normal of 12 mm. Patient presents with normal of 16 mm. Individual reports other structure of 18 mm. Case involves lesion. Individual reports lesion. Individual reports normal. Patient presents with normal. Subject describes normal of 13 cm. Individual reports normal of 10 mm. Case involves lesion. Individual reports lesion of 7.1 cm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case75",
+    "uid":"Task104_Example_ml_bin_clf_case75",
+    "center":"1",
     "text":"Patient presents with mild to moderate chest pain, indication of chronic fatigue syndrome. Subject describes normal. Subject describes lesion of 13 mm. Patient presents with normal of 13 mm. Patient presents with normal. Case involves normal of 13 mm. Case involves other structure. Individual reports normal. Patient presents with normal of 19 mm. Patient presents with normal of 8.5 cm. Individual reports lesion. Subject describes normal. Case involves normal of 18 mm. Patient presents with normal of 10 mm. Suggest dietary changes. Recommend further testing. Advise regular exercise. Advise regular exercise. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Suggest dietary changes. Advise regular exercise. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Suggest dietary changes. Suggest dietary changes. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Recommend further testing. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Advise patient to increase fluid intake. Suggest dietary changes. Suggest dietary changes. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise regular exercise. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Recommend further testing. Advise patient to increase fluid intake. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Suggest dietary changes. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise regular exercise. Schedule follow-up in two weeks. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Suggest dietary changes. Recommend further testing. Suggest dietary changes. Advise patient to increase fluid intake."
   },
   {
-    "uid":"Task104_case76",
+    "uid":"Task104_Example_ml_bin_clf_case76",
+    "center":"0",
     "text":"Individual reports mild to moderate chest pain, early signs of diabetes. Subject describes normal of 17 mm. Patient presents with other structure. Subject describes lesion. Patient presents with other structure of 18 mm. Patient presents with lesion of 11 cm. Patient presents with normal of 16 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case77",
+    "uid":"Task104_Example_ml_bin_clf_case77",
+    "center":"1",
     "text":"Subject describes chronic fatigue, symptoms of seasonal allergies. Patient presents with lesion. Patient presents with normal of 14 mm. Subject describes normal of 15 cm. Case involves other structure of 15 cm. Individual reports normal. Subject describes other structure of 20 mm. Individual reports lesion of 15 mm. Patient presents with normal of 19 cm. Individual reports normal of 1.7 cm. Subject describes lesion. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case78",
+    "uid":"Task104_Example_ml_bin_clf_case78",
+    "center":"1",
     "text":"Individual reports sudden weight loss, likely viral infection. Subject describes other structure of 19 mm. Case involves normal of 15 mm. Subject describes normal of 18 mm. Subject describes normal of 17 cm. Patient presents with other structure of 18 mm. Case involves normal of 9.9 cm. Individual reports normal of 7.4 cm. Case involves other structure of 13 mm. Individual reports normal of 19 mm. Individual reports lesion of 11 mm. Patient presents with normal. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case79",
+    "uid":"Task104_Example_ml_bin_clf_case79",
+    "center":"1",
     "text":"Subject describes shortness of breath, early signs of diabetes. Subject describes other structure of 9.2 cm. Subject describes normal of 16 mm. Individual reports lesion of 20 mm. Individual reports normal of 12 mm. Individual reports other structure. Case involves lesion. Patient presents with lesion of 17 mm. Case involves normal of 19 cm. Individual reports lesion of 18 cm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case82",
+    "uid":"Task104_Example_ml_bin_clf_case82",
+    "center":"0",
     "text":"Subject describes persistent cough, indication of chronic fatigue syndrome. Individual reports normal of 13 cm. Individual reports other structure. Subject describes normal of 12 cm. Individual reports normal of 16 mm. Subject describes lesion. Patient presents with normal. Individual reports other structure. Patient presents with normal. Case involves other structure. Patient presents with lesion of 4.1 cm. Patient presents with normal of 3.3 cm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case84",
+    "uid":"Task104_Example_ml_bin_clf_case84",
+    "center":"0",
     "text":"Case involves severe headaches, possible bacterial infection. Case involves normal. Individual reports lesion. Individual reports lesion of 19 mm. Patient presents with lesion of 13 mm. Patient presents with normal. Case involves normal. Subject describes normal of 16 mm. Subject describes lesion of 20 mm. Patient presents with other structure. Individual reports lesion of 17 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case86",
+    "uid":"Task104_Example_ml_bin_clf_case86",
+    "center":"1",
     "text":"Patient presents with mild to moderate chest pain, symptoms of seasonal allergies. Individual reports lesion of 15 mm. Individual reports normal of 9.0 cm. Case involves lesion of 19 mm. Subject describes normal of 17 mm. Case involves lesion. Individual reports lesion of 14 cm. Individual reports normal of 11 mm. Subject describes normal of 12 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case90",
+    "uid":"Task104_Example_ml_bin_clf_case90",
+    "center":"0",
     "text":"Subject describes shortness of breath, early signs of diabetes. Subject describes other structure. Individual reports normal. Subject describes normal of 13 mm. Subject describes normal of 19 mm. Case involves normal of 14 mm. Patient presents with lesion of 17 mm. Patient presents with other structure. Case involves lesion of 13 mm. Patient presents with normal of 12 mm. Subject describes other structure. Case involves lesion of 10 cm. Subject describes lesion of 14 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case93",
+    "uid":"Task104_Example_ml_bin_clf_case93",
+    "center":"0",
     "text":"Individual reports intermittent fever, symptoms of seasonal allergies. Individual reports other structure of 11 mm. Subject describes lesion. Individual reports lesion of 8.9 cm. Case involves normal of 14 mm. Subject describes lesion of 13 mm. Subject describes normal of 17 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case94",
+    "uid":"Task104_Example_ml_bin_clf_case94",
+    "center":"0",
     "text":"Subject describes persistent cough, likely viral infection. Case involves normal. Subject describes normal of 3.1 cm. Case involves other structure of 18 mm. Subject describes normal. Case involves normal of 2.0 cm. Subject describes normal. Individual reports other structure of 9.7 cm. Patient presents with normal of 17 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case101",
+    "uid":"Task104_Example_ml_bin_clf_case101",
+    "center":"0",
     "text":"Subject describes intermittent fever, possible bacterial infection. Patient presents with other structure of 6.8 cm. Patient presents with normal of 18 mm. Individual reports lesion of 16 cm. Subject describes normal of 16 cm. Patient presents with lesion of 14 mm. Patient presents with normal of 17 mm. Patient presents with normal of 12 mm. Case involves normal of 17 mm. Patient presents with normal of 19 mm. Subject describes other structure. Subject describes lesion. Subject describes other structure of 2.2 cm. Subject describes lesion of 14 mm. Individual reports normal. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case104",
+    "uid":"Task104_Example_ml_bin_clf_case104",
+    "center":"0",
     "text":"Individual reports severe headaches, possible bacterial infection. Subject describes lesion. Case involves normal of 8.5 cm. Individual reports normal. Case involves other structure. Individual reports other structure. Case involves lesion. Case involves normal of 19 mm. Subject describes lesion of 11 mm. Patient presents with lesion. Case involves lesion of 19 mm. Case involves other structure. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case113",
+    "uid":"Task104_Example_ml_bin_clf_case113",
+    "center":"0",
     "text":"Individual reports chronic fatigue, early signs of diabetes. Subject describes normal. Subject describes lesion of 16 mm. Patient presents with normal of 16 mm. Subject describes other structure. Individual reports lesion of 17 mm. Individual reports other structure of 16 mm. Patient presents with lesion. Recommend further testing. "
   },
   {
-    "uid":"Task104_case117",
+    "uid":"Task104_Example_ml_bin_clf_case117",
+    "center":"1",
     "text":"Case involves mild to moderate chest pain, likely viral infection. Case involves lesion of 1.8 cm. Case involves lesion of 15 mm. Subject describes normal of 20 cm. Individual reports other structure of 15 mm. Individual reports lesion of 14 mm. Case involves lesion. Subject describes normal of 18 mm. Patient presents with other structure of 16 mm. Individual reports normal of 18 mm. Subject describes normal of 15 mm. Patient presents with lesion of 14 mm. Subject describes normal of 14 cm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case124",
+    "uid":"Task104_Example_ml_bin_clf_case124",
+    "center":"1",
     "text":"Case involves chronic fatigue, possible bacterial infection. Individual reports normal. Case involves other structure. Case involves normal. Individual reports lesion of 2.3 cm. Individual reports normal of 13 cm. Individual reports lesion of 16 mm. Patient presents with lesion of 12 mm. Case involves normal. Individual reports lesion. Case involves lesion of 15 mm. Patient presents with normal of 19 mm. Individual reports other structure of 5.7 cm. Patient presents with other structure of 16 mm. Individual reports other structure of 9.1 cm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case126",
+    "uid":"Task104_Example_ml_bin_clf_case126",
+    "center":"0",
     "text":"Case involves persistent cough, possible bacterial infection. Case involves lesion of 15 mm. Case involves normal. Subject describes other structure of 16 mm. Individual reports normal. Case involves normal of 10 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case131",
+    "uid":"Task104_Example_ml_bin_clf_case131",
+    "center":"1",
     "text":"Subject describes sudden weight loss, symptoms of seasonal allergies. Case involves normal of 14 mm. Patient presents with normal of 3.3 cm. Individual reports normal. Case involves normal of 12 mm. Patient presents with lesion. Case involves lesion of 19 mm. Subject describes normal of 3.4 cm. Subject describes normal of 15 mm. Individual reports lesion of 18 mm. Case involves other structure of 16 mm. Subject describes normal of 13 mm. Individual reports normal of 19 mm. Subject describes other structure of 20 cm. Subject describes lesion of 19 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case132",
+    "uid":"Task104_Example_ml_bin_clf_case132",
+    "center":"1",
     "text":"Individual reports persistent cough, possible bacterial infection. Case involves normal of 16 mm. Subject describes lesion of 19 mm. Individual reports lesion. Patient presents with other structure of 10 mm. Case involves normal of 18 mm. Subject describes normal of 18 cm. Case involves lesion. Subject describes normal of 16 mm. Case involves normal of 14 mm. Individual reports normal of 11 cm. Patient presents with normal. Recommend further testing. "
   },
   {
-    "uid":"Task104_case137",
+    "uid":"Task104_Example_ml_bin_clf_case137",
+    "center":"1",
     "text":"Case involves sudden weight loss, potential thyroid disorder. Subject describes normal of 15 mm. Patient presents with other structure of 2.7 cm. Subject describes other structure of 11 mm. Subject describes normal of 16 mm. Patient presents with normal. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case140",
+    "uid":"Task104_Example_ml_bin_clf_case140",
+    "center":"1",
     "text":"Patient presents with sudden weight loss, potential thyroid disorder. Individual reports normal of 18 mm. Patient presents with normal of 4.6 cm. Subject describes other structure of 14 cm. Individual reports lesion of 17 mm. Subject describes normal. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case148",
+    "uid":"Task104_Example_ml_bin_clf_case148",
+    "center":"0",
     "text":"Subject describes intermittent fever, indication of chronic fatigue syndrome. Case involves other structure of 20 cm. Subject describes other structure of 18 cm. Individual reports normal. Individual reports normal. Individual reports normal. Patient presents with normal. Patient presents with other structure of 15 mm. Individual reports lesion of 12 cm. Patient presents with normal of 13 mm. Case involves normal of 9.4 cm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case153",
+    "uid":"Task104_Example_ml_bin_clf_case153",
+    "center":"1",
     "text":"Subject describes chronic fatigue, likely viral infection. Subject describes normal of 20 mm. Case involves lesion of 10 mm. Subject describes normal of 14 mm. Individual reports normal of 14 mm. Subject describes lesion. Subject describes other structure. Case involves other structure of 11 mm. Individual reports normal. Individual reports lesion. Subject describes other structure of 10 mm. Case involves lesion of 12 mm. Case involves normal of 18 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case154",
+    "uid":"Task104_Example_ml_bin_clf_case154",
+    "center":"1",
     "text":"Individual reports shortness of breath, potential thyroid disorder. Individual reports other structure. Case involves normal of 12 cm. Individual reports normal. Case involves normal of 14 cm. Subject describes normal of 17 cm. Subject describes normal of 14 mm. Patient presents with lesion of 14 cm. Individual reports lesion of 18 mm. Patient presents with lesion of 19 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case155",
+    "uid":"Task104_Example_ml_bin_clf_case155",
+    "center":"0",
     "text":"Patient presents with severe headaches, likely viral infection. Individual reports lesion of 3.9 cm. Patient presents with normal of 3.7 cm. Subject describes other structure. Subject describes normal of 16 mm. Subject describes normal of 11 mm. Case involves lesion. Subject describes lesion of 13 mm. Patient presents with normal. Individual reports normal. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case172",
+    "uid":"Task104_Example_ml_bin_clf_case172",
+    "center":"0",
     "text":"Case involves severe headaches, early signs of diabetes. Individual reports normal of 18 mm. Subject describes normal of 20 mm. Patient presents with normal. Case involves normal. Case involves lesion. Individual reports normal of 17 mm. Patient presents with other structure. Subject describes other structure of 17 mm. Case involves normal. Individual reports lesion. Patient presents with normal of 12 cm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case173",
+    "uid":"Task104_Example_ml_bin_clf_case173",
+    "center":"1",
     "text":"Individual reports chronic fatigue, indication of chronic fatigue syndrome. Subject describes normal of 14 mm. Patient presents with normal of 14 mm. Subject describes normal of 17 mm. Individual reports lesion. Individual reports normal of 10 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case176",
+    "uid":"Task104_Example_ml_bin_clf_case176",
+    "center":"1",
     "text":"Patient presents with shortness of breath, potential thyroid disorder. Patient presents with normal of 19 cm. Individual reports normal of 13 mm. Individual reports lesion of 20 mm. Case involves lesion. Subject describes normal. Case involves lesion. Case involves normal of 19 cm. Case involves normal of 3.0 cm. Individual reports normal of 19 mm. Subject describes normal. Individual reports normal of 17 mm. Subject describes normal. Individual reports other structure. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case180",
+    "uid":"Task104_Example_ml_bin_clf_case180",
+    "center":"1",
     "text":"Individual reports sudden weight loss, indication of chronic fatigue syndrome. Subject describes normal of 16 cm. Case involves normal. Individual reports normal. Patient presents with normal. Patient presents with lesion. Case involves normal of 16 mm. Individual reports normal of 16 mm. Subject describes other structure of 5.8 cm. Case involves normal of 14 mm. Patient presents with normal of 10 cm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case182",
+    "uid":"Task104_Example_ml_bin_clf_case182",
+    "center":"1",
     "text":"Individual reports sudden weight loss, possible bacterial infection. Subject describes normal. Subject describes normal of 13 mm. Subject describes lesion of 13 mm. Case involves lesion of 13 mm. Case involves lesion of 16 cm. Patient presents with other structure. Case involves lesion of 13 cm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case185",
+    "uid":"Task104_Example_ml_bin_clf_case185",
+    "center":"1",
     "text":"Patient presents with severe headaches, possible bacterial infection. Patient presents with lesion. Case involves normal of 19 mm. Subject describes normal of 18 mm. Case involves normal. Patient presents with normal. Case involves normal of 11 mm. Subject describes normal of 18 cm. Patient presents with normal. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case192",
+    "uid":"Task104_Example_ml_bin_clf_case192",
+    "center":"1",
     "text":"Case involves severe headaches, indication of chronic fatigue syndrome. Case involves lesion. Subject describes lesion of 15 mm. Case involves normal of 19 mm. Subject describes normal. Individual reports normal. Case involves normal. Case involves normal of 12 cm. Individual reports other structure. Subject describes normal. Individual reports normal of 11 mm. Subject describes normal. Case involves normal of 17 mm. Individual reports normal of 17 mm. Individual reports other structure of 12 cm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case193",
+    "uid":"Task104_Example_ml_bin_clf_case193",
+    "center":"0",
     "text":"Case involves sudden weight loss, possible bacterial infection. Case involves normal of 17 mm. Individual reports lesion. Patient presents with lesion of 13 cm. Individual reports other structure. Individual reports other structure of 17 mm. Case involves other structure. Subject describes normal. Individual reports normal of 18 mm. Case involves lesion. Case involves lesion of 15 cm. Individual reports lesion of 4.6 cm. Patient presents with normal. Patient presents with lesion. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case194",
+    "uid":"Task104_Example_ml_bin_clf_case194",
+    "center":"1",
     "text":"Individual reports persistent cough, potential thyroid disorder. Patient presents with normal. Subject describes normal of 14 mm. Subject describes normal. Patient presents with lesion of 7.0 cm. Patient presents with normal of 12 mm. Patient presents with lesion. Individual reports normal of 16 mm. Case involves normal of 17 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case203",
+    "uid":"Task104_Example_ml_bin_clf_case203",
+    "center":"1",
     "text":"Patient presents with shortness of breath, symptoms of seasonal allergies. Patient presents with lesion of 19 cm. Individual reports normal of 18 mm. Individual reports other structure of 11 mm. Case involves normal of 12 mm. Individual reports normal of 13 mm. Patient presents with normal of 18 mm. Individual reports lesion of 20 cm. Individual reports lesion of 12 cm. Patient presents with normal of 15 mm. Subject describes lesion of 2.4 cm. Individual reports normal. Patient presents with other structure of 18 mm. Patient presents with normal of 13 cm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case204",
+    "uid":"Task104_Example_ml_bin_clf_case204",
+    "center":"0",
     "text":"Individual reports chronic fatigue, potential thyroid disorder. Patient presents with normal of 19 mm. Case involves normal of 13 mm. Subject describes normal. Individual reports normal. Patient presents with normal of 15 mm. Subject describes other structure of 12 mm. Patient presents with normal of 2.4 cm. Case involves other structure. Individual reports normal of 17 mm. Case involves other structure of 17 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case208",
+    "uid":"Task104_Example_ml_bin_clf_case208",
+    "center":"0",
     "text":"Case involves sudden weight loss, symptoms of seasonal allergies. Individual reports lesion. Individual reports lesion. Case involves normal. Patient presents with lesion of 13 cm. Subject describes other structure of 19 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case209",
+    "uid":"Task104_Example_ml_bin_clf_case209",
+    "center":"0",
     "text":"Case involves shortness of breath, likely viral infection. Individual reports other structure of 19 mm. Case involves lesion of 2.7 cm. Individual reports normal. Subject describes lesion of 20 mm. Subject describes normal of 11 mm. Case involves normal of 16 mm. Patient presents with other structure. Subject describes normal of 4.9 cm. Case involves normal of 20 mm. Case involves lesion of 11 mm. Case involves normal. Individual reports other structure of 12 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case211",
+    "uid":"Task104_Example_ml_bin_clf_case211",
+    "center":"0",
     "text":"Case involves sudden weight loss, symptoms of seasonal allergies. Individual reports normal of 19 mm. Case involves normal of 10 cm. Case involves other structure. Subject describes normal of 6.3 cm. Subject describes lesion of 3.7 cm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case220",
+    "uid":"Task104_Example_ml_bin_clf_case220",
+    "center":"1",
     "text":"Subject describes chronic fatigue, symptoms of seasonal allergies. Case involves lesion. Case involves normal of 13 mm. Patient presents with normal. Case involves other structure of 12 cm. Subject describes lesion of 10 mm. Individual reports other structure. Patient presents with lesion of 19 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case222",
+    "uid":"Task104_Example_ml_bin_clf_case222",
+    "center":"1",
     "text":"Case involves shortness of breath, indication of chronic fatigue syndrome. Patient presents with lesion. Patient presents with lesion. Case involves lesion. Individual reports other structure of 9.9 cm. Subject describes other structure. Individual reports lesion. Individual reports lesion of 7.7 cm. Individual reports normal. Subject describes normal. Case involves lesion of 1.4 cm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case227",
+    "uid":"Task104_Example_ml_bin_clf_case227",
+    "center":"1",
     "text":"Patient presents with mild to moderate chest pain, likely viral infection. Subject describes normal of 13 cm. Subject describes normal of 5.6 cm. Patient presents with other structure. Individual reports normal. Patient presents with other structure of 11 mm. Individual reports normal of 19 mm. Case involves normal of 11 cm. Individual reports normal. Patient presents with normal of 19 cm. Patient presents with lesion. Patient presents with lesion of 18 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case229",
+    "uid":"Task104_Example_ml_bin_clf_case229",
+    "center":"1",
     "text":"Individual reports shortness of breath, symptoms of seasonal allergies. Subject describes lesion of 6.9 cm. Patient presents with normal of 14 mm. Patient presents with normal. Patient presents with lesion. Individual reports lesion. Patient presents with other structure. Individual reports normal. Subject describes normal of 17 cm. Case involves lesion. Individual reports normal of 12 mm. Case involves other structure of 16 mm. Case involves other structure. Subject describes normal. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case231",
+    "uid":"Task104_Example_ml_bin_clf_case231",
+    "center":"1",
     "text":"Subject describes mild to moderate chest pain, symptoms of seasonal allergies. Case involves normal of 17 cm. Patient presents with lesion of 11 cm. Individual reports lesion. Case involves normal. Case involves lesion of 16 mm. Subject describes normal of 10 mm. Subject describes normal of 16 mm. Individual reports lesion. Patient presents with normal of 20 mm. Individual reports normal. Patient presents with lesion of 12 cm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case237",
+    "uid":"Task104_Example_ml_bin_clf_case237",
+    "center":"1",
     "text":"Subject describes chronic fatigue, early signs of diabetes. Subject describes normal of 13 mm. Subject describes normal of 11 mm. Patient presents with lesion of 1.6 cm. Case involves normal. Subject describes lesion. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case238",
+    "uid":"Task104_Example_ml_bin_clf_case238",
+    "center":"0",
     "text":"Subject describes sudden weight loss, early signs of diabetes. Patient presents with lesion. Individual reports lesion. Case involves other structure of 13 mm. Subject describes other structure of 16 cm. Case involves lesion of 6.6 cm. Patient presents with other structure of 18 mm. Patient presents with normal of 12 cm. Subject describes lesion. Case involves other structure. Patient presents with normal. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case247",
+    "uid":"Task104_Example_ml_bin_clf_case247",
+    "center":"1",
     "text":"Subject describes intermittent fever, likely viral infection. Subject describes lesion of 13 mm. Subject describes normal of 11 mm. Individual reports normal. Subject describes lesion. Case involves other structure. Patient presents with normal of 12 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case249",
+    "uid":"Task104_Example_ml_bin_clf_case249",
+    "center":"0",
     "text":"Patient presents with intermittent fever, symptoms of seasonal allergies. Patient presents with lesion of 16 mm. Subject describes lesion of 18 mm. Case involves lesion of 14 cm. Patient presents with normal of 18 mm. Patient presents with normal. Case involves lesion. Individual reports normal of 12 cm. Patient presents with normal. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case253",
+    "uid":"Task104_Example_ml_bin_clf_case253",
+    "center":"0",
     "text":"Subject describes shortness of breath, potential thyroid disorder. Patient presents with normal. Individual reports normal of 15 mm. Case involves normal. Subject describes other structure of 16 mm. Subject describes normal of 14 mm. Patient presents with other structure of 18 mm. Individual reports normal of 3.7 cm. Case involves normal of 3.1 cm. Case involves lesion. Individual reports lesion. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case261",
+    "uid":"Task104_Example_ml_bin_clf_case261",
+    "center":"1",
     "text":"Patient presents with shortness of breath, early signs of diabetes. Case involves normal. Subject describes other structure of 2.9 cm. Subject describes normal. Patient presents with other structure. Individual reports normal of 14 mm. Individual reports lesion of 17 mm. Individual reports normal. Individual reports normal of 10 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case262",
+    "uid":"Task104_Example_ml_bin_clf_case262",
+    "center":"0",
     "text":"Individual reports sudden weight loss, indication of chronic fatigue syndrome. Subject describes normal of 13 mm. Case involves lesion of 16 mm. Patient presents with normal of 14 mm. Patient presents with normal of 20 cm. Individual reports normal of 8.9 cm. Case involves lesion. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case265",
+    "uid":"Task104_Example_ml_bin_clf_case265",
+    "center":"1",
     "text":"Individual reports sudden weight loss, likely viral infection. Individual reports lesion of 16 mm. Case involves lesion. Individual reports other structure. Individual reports normal of 16 cm. Subject describes normal of 9.1 cm. Case involves lesion of 19 mm. Patient presents with normal of 1.8 cm. Patient presents with lesion of 5.8 cm. Individual reports lesion of 12 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case266",
+    "uid":"Task104_Example_ml_bin_clf_case266",
+    "center":"0",
     "text":"Case involves chronic fatigue, likely viral infection. Subject describes other structure of 20 mm. Patient presents with other structure of 12 cm. Subject describes normal of 7.0 cm. Case involves lesion. Individual reports lesion of 11 mm. Case involves normal. Patient presents with other structure of 20 mm. Subject describes other structure of 1.9 cm. Patient presents with lesion of 10 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case268",
+    "uid":"Task104_Example_ml_bin_clf_case268",
+    "center":"1",
     "text":"Subject describes severe headaches, likely viral infection. Individual reports normal of 14 mm. Subject describes normal. Case involves normal. Case involves normal of 15 mm. Subject describes normal of 17 mm. Case involves other structure of 12 mm. Subject describes normal of 3.3 cm. Case involves lesion of 18 cm. Subject describes normal of 16 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case271",
+    "uid":"Task104_Example_ml_bin_clf_case271",
+    "center":"0",
     "text":"Individual reports severe headaches, likely viral infection. Case involves normal. Subject describes lesion of 11 mm. Case involves normal of 10 cm. Case involves lesion. Patient presents with normal of 15 cm. Case involves normal of 12 mm. Case involves lesion of 15 mm. Individual reports lesion of 2.0 cm. Subject describes other structure of 8.3 cm. Case involves other structure. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case277",
+    "uid":"Task104_Example_ml_bin_clf_case277",
+    "center":"1",
     "text":"Subject describes shortness of breath, early signs of diabetes. Subject describes lesion of 14 cm. Patient presents with normal of 14 mm. Case involves lesion. Individual reports normal. Case involves normal of 10 mm. Patient presents with normal of 17 mm. Case involves normal of 19 cm. Subject describes normal of 10.0 cm. Individual reports lesion. Subject describes normal. Subject describes normal of 11 mm. Case involves normal of 13 cm. Individual reports normal of 18 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case278",
+    "uid":"Task104_Example_ml_bin_clf_case278",
+    "center":"1",
     "text":"Patient presents with shortness of breath, early signs of diabetes. Patient presents with lesion of 16 mm. Patient presents with normal. Case involves lesion. Individual reports normal. Patient presents with lesion of 12 mm. Individual reports other structure of 19 mm. Case involves lesion of 17 mm. Individual reports other structure. Case involves normal. Case involves normal of 15 mm. Individual reports normal of 16 mm. Case involves normal of 17 cm. Case involves other structure of 17 mm. Case involves normal of 15 cm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case280",
+    "uid":"Task104_Example_ml_bin_clf_case280",
+    "center":"1",
     "text":"Individual reports severe headaches, symptoms of seasonal allergies. Individual reports normal. Individual reports lesion of 16 mm. Case involves other structure of 13 cm. Subject describes other structure. Individual reports normal of 16 mm. Subject describes normal. Subject describes normal. Patient presents with normal of 7.6 cm. Patient presents with normal. Patient presents with normal of 16 mm. Patient presents with other structure. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case281",
+    "uid":"Task104_Example_ml_bin_clf_case281",
+    "center":"1",
     "text":"Patient presents with sudden weight loss, likely viral infection. Patient presents with lesion of 13 mm. Individual reports other structure of 15 mm. Case involves normal of 10 mm. Subject describes normal. Individual reports lesion. Case involves normal of 11 mm. Subject describes lesion. Patient presents with lesion of 8.7 cm. Subject describes lesion of 16 mm. Case involves normal of 4.5 cm. Individual reports normal of 3.2 cm. Patient presents with lesion of 19 cm. Subject describes lesion. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case290",
+    "uid":"Task104_Example_ml_bin_clf_case290",
+    "center":"1",
     "text":"Patient presents with shortness of breath, likely viral infection. Individual reports normal. Case involves normal. Patient presents with normal of 18 mm. Subject describes normal of 20 mm. Case involves other structure of 17 mm. Case involves other structure of 18 mm. Individual reports lesion. Patient presents with normal. Individual reports lesion of 10 cm. Case involves lesion. Case involves normal. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case301",
+    "uid":"Task104_Example_ml_bin_clf_case301",
+    "center":"0",
     "text":"Individual reports mild to moderate chest pain, symptoms of seasonal allergies. Patient presents with normal of 9.6 cm. Patient presents with normal of 15 mm. Individual reports normal. Patient presents with normal. Patient presents with normal of 19 cm. Subject describes other structure. Patient presents with other structure of 14 mm. Individual reports normal. Patient presents with lesion of 14 mm. Subject describes normal. Case involves normal of 16 mm. Subject describes other structure of 12 mm. Subject describes other structure of 13 cm. Subject describes lesion of 16 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case304",
+    "uid":"Task104_Example_ml_bin_clf_case304",
+    "center":"0",
     "text":"Subject describes persistent cough, possible bacterial infection. Case involves normal. Individual reports other structure of 13 mm. Patient presents with lesion. Subject describes normal of 12 cm. Individual reports normal of 12 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case312",
+    "uid":"Task104_Example_ml_bin_clf_case312",
+    "center":"0",
     "text":"Patient presents with chronic fatigue, indication of chronic fatigue syndrome. Case involves normal. Subject describes normal of 14 mm. Subject describes other structure. Patient presents with other structure. Subject describes normal of 17 mm. Individual reports other structure of 18 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case316",
+    "uid":"Task104_Example_ml_bin_clf_case316",
+    "center":"1",
     "text":"Individual reports sudden weight loss, likely viral infection. Subject describes lesion. Individual reports normal of 18 mm. Individual reports normal. Patient presents with normal of 6.9 cm. Subject describes normal. Subject describes lesion of 13 mm. Subject describes normal of 20 mm. Patient presents with normal of 19 mm. Case involves other structure of 11 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case317",
+    "uid":"Task104_Example_ml_bin_clf_case317",
+    "center":"0",
     "text":"Subject describes persistent cough, indication of chronic fatigue syndrome. Individual reports normal. Individual reports normal. Subject describes lesion of 15 mm. Subject describes normal. Individual reports lesion of 18 mm. Individual reports normal of 14 mm. Patient presents with normal. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case320",
+    "uid":"Task104_Example_ml_bin_clf_case320",
+    "center":"1",
     "text":"Individual reports persistent cough, early signs of diabetes. Individual reports normal of 15 mm. Individual reports lesion. Individual reports other structure of 1.5 cm. Subject describes normal of 14 mm. Case involves normal of 11 mm. Patient presents with other structure of 11 cm. Individual reports lesion of 7.2 cm. Patient presents with lesion. Patient presents with other structure of 12 mm. Individual reports other structure. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case321",
+    "uid":"Task104_Example_ml_bin_clf_case321",
+    "center":"1",
     "text":"Patient presents with persistent cough, symptoms of seasonal allergies. Patient presents with lesion of 15 mm. Patient presents with normal of 14 cm. Case involves normal. Individual reports normal of 10 mm. Subject describes lesion of 16 mm. Case involves normal of 20 mm. Subject describes normal. Subject describes lesion of 17 mm. Subject describes normal of 19 mm. Case involves lesion of 14 mm. Patient presents with other structure of 17 mm. Subject describes other structure of 11 cm. Case involves lesion. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case322",
+    "uid":"Task104_Example_ml_bin_clf_case322",
+    "center":"0",
     "text":"Patient presents with severe headaches, potential thyroid disorder. Individual reports lesion of 2.5 cm. Subject describes lesion. Case involves lesion. Subject describes lesion of 3.3 cm. Subject describes lesion. Patient presents with lesion. Subject describes normal. Case involves lesion of 13 cm. Case involves lesion of 17 cm. Case involves normal. Subject describes normal of 11 mm. Case involves other structure. Individual reports normal of 11 mm. Subject describes lesion of 15 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case323",
+    "uid":"Task104_Example_ml_bin_clf_case323",
+    "center":"0",
     "text":"Patient presents with sudden weight loss, likely viral infection. Individual reports other structure of 20 mm. Patient presents with other structure of 11 mm. Patient presents with other structure. Individual reports normal of 14 cm. Subject describes lesion. Patient presents with other structure of 11 mm. Case involves normal of 10 mm. Case involves lesion of 14 cm. Patient presents with other structure of 16 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case324",
+    "uid":"Task104_Example_ml_bin_clf_case324",
+    "center":"1",
     "text":"Individual reports chronic fatigue, symptoms of seasonal allergies. Patient presents with normal of 15 mm. Patient presents with lesion of 12 mm. Patient presents with normal of 12 mm. Subject describes normal of 11 mm. Subject describes lesion. Individual reports other structure. Subject describes normal of 12 mm. Patient presents with normal of 17 mm. Individual reports normal of 18 mm. Subject describes normal of 12 mm. Individual reports other structure of 16 cm. Subject describes lesion of 16 mm. Patient presents with normal of 13 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case329",
+    "uid":"Task104_Example_ml_bin_clf_case329",
+    "center":"0",
     "text":"Individual reports persistent cough, symptoms of seasonal allergies. Patient presents with other structure. Subject describes normal. Patient presents with other structure. Subject describes normal of 15 mm. Patient presents with lesion. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case331",
+    "uid":"Task104_Example_ml_bin_clf_case331",
+    "center":"1",
     "text":"Patient presents with severe headaches, symptoms of seasonal allergies. Subject describes normal of 12 mm. Patient presents with other structure of 17 mm. Patient presents with normal. Case involves normal of 11 mm. Individual reports normal. Individual reports lesion of 11 cm. Case involves lesion of 16 mm. Individual reports other structure of 11 mm. Case involves other structure of 11 cm. Subject describes normal. Case involves other structure of 14 cm. Patient presents with other structure of 6.2 cm. Individual reports normal. Recommend further testing. "
   },
   {
-    "uid":"Task104_case332",
+    "uid":"Task104_Example_ml_bin_clf_case332",
+    "center":"1",
     "text":"Subject describes mild to moderate chest pain, symptoms of seasonal allergies. Subject describes other structure. Individual reports normal of 13 mm. Individual reports lesion of 18 mm. Case involves other structure. Case involves normal. Individual reports normal. Case involves other structure. Case involves normal of 15 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case333",
+    "uid":"Task104_Example_ml_bin_clf_case333",
+    "center":"1",
     "text":"Patient presents with chronic fatigue, potential thyroid disorder. Subject describes normal of 12 mm. Patient presents with lesion. Individual reports normal of 19 mm. Subject describes lesion. Subject describes normal. Patient presents with normal of 10 mm. Subject describes normal of 12 cm. Subject describes other structure of 4.8 cm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case334",
+    "uid":"Task104_Example_ml_bin_clf_case334",
+    "center":"1",
     "text":"Case involves persistent cough, early signs of diabetes. Individual reports lesion of 6.5 cm. Individual reports lesion of 18 mm. Individual reports other structure of 13 mm. Individual reports normal. Case involves normal of 13 mm. Case involves normal of 15 mm. Subject describes normal. Subject describes normal of 20 mm. Individual reports normal of 19 mm. Case involves normal of 1.7 cm. Case involves lesion of 19 mm. Individual reports normal of 18 mm. Subject describes other structure. Individual reports other structure. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case335",
+    "uid":"Task104_Example_ml_bin_clf_case335",
+    "center":"1",
     "text":"Case involves chronic fatigue, possible bacterial infection. Subject describes normal. Case involves normal. Patient presents with lesion of 4.4 cm. Patient presents with normal of 9.3 cm. Case involves normal. Individual reports normal of 12 mm. Individual reports normal. Individual reports lesion. Subject describes lesion of 11 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case336",
+    "uid":"Task104_Example_ml_bin_clf_case336",
+    "center":"0",
     "text":"Subject describes chronic fatigue, possible bacterial infection. Case involves lesion of 19 mm. Individual reports normal of 18 mm. Subject describes normal of 4.9 cm. Patient presents with normal of 17 mm. Individual reports normal of 14 mm. Patient presents with other structure. Subject describes other structure. Individual reports normal of 13 mm. Subject describes lesion. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case341",
+    "uid":"Task104_Example_ml_bin_clf_case341",
+    "center":"0",
     "text":"Subject describes shortness of breath, indication of chronic fatigue syndrome. Subject describes normal of 15 mm. Patient presents with lesion of 4.1 cm. Individual reports other structure of 12 mm. Case involves other structure of 12 mm. Case involves normal. Patient presents with normal of 19 mm. Case involves normal of 20 mm. Subject describes lesion of 11 cm. Case involves other structure of 12 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case347",
+    "uid":"Task104_Example_ml_bin_clf_case347",
+    "center":"1",
     "text":"Individual reports mild to moderate chest pain, symptoms of seasonal allergies. Individual reports normal of 5.2 cm. Case involves normal of 2.3 cm. Patient presents with other structure of 17 mm. Case involves other structure. Case involves lesion of 17 mm. Individual reports lesion of 17 mm. Subject describes normal. Case involves lesion of 10 mm. Individual reports normal. Case involves lesion. Case involves normal. Individual reports lesion. Case involves lesion. Subject describes normal of 20 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case352",
+    "uid":"Task104_Example_ml_bin_clf_case352",
+    "center":"1",
     "text":"Case involves sudden weight loss, likely viral infection. Patient presents with other structure. Subject describes lesion. Case involves normal. Patient presents with normal. Subject describes normal of 20 mm. Individual reports lesion. Patient presents with lesion of 5.7 cm. Subject describes other structure of 14 mm. Patient presents with normal of 18 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case356",
+    "uid":"Task104_Example_ml_bin_clf_case356",
+    "center":"0",
     "text":"Subject describes mild to moderate chest pain, likely viral infection. Patient presents with normal of 10 mm. Subject describes lesion. Case involves lesion. Individual reports normal of 13 mm. Patient presents with normal. Patient presents with normal. Individual reports normal of 20 mm. Individual reports normal of 9.3 cm. Patient presents with normal. Case involves other structure. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case361",
+    "uid":"Task104_Example_ml_bin_clf_case361",
+    "center":"0",
     "text":"Individual reports mild to moderate chest pain, indication of chronic fatigue syndrome. Patient presents with lesion of 17 mm. Patient presents with normal of 6.0 cm. Case involves normal. Case involves other structure of 19 mm. Individual reports lesion of 19 mm. Case involves normal of 14 mm. Case involves normal of 8.4 cm. Individual reports normal. Subject describes normal of 19 mm. Individual reports normal. Patient presents with normal. Case involves lesion. Individual reports other structure of 13 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case362",
+    "uid":"Task104_Example_ml_bin_clf_case362",
+    "center":"1",
     "text":"Subject describes sudden weight loss, symptoms of seasonal allergies. Case involves normal. Subject describes other structure. Patient presents with normal of 10 mm. Subject describes normal. Patient presents with lesion. Subject describes other structure of 5.4 cm. Patient presents with lesion. Individual reports other structure. Case involves lesion of 17 mm. Patient presents with normal of 14 mm. Subject describes other structure of 13 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case371",
+    "uid":"Task104_Example_ml_bin_clf_case371",
+    "center":"0",
     "text":"Individual reports severe headaches, early signs of diabetes. Subject describes lesion. Case involves lesion of 16 mm. Patient presents with normal of 13 mm. Case involves other structure of 18 mm. Individual reports other structure. Subject describes normal. Subject describes normal of 12 mm. Case involves lesion of 19 cm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case374",
+    "uid":"Task104_Example_ml_bin_clf_case374",
+    "center":"1",
     "text":"Subject describes chronic fatigue, likely viral infection. Case involves normal of 17 mm. Case involves other structure. Subject describes other structure. Subject describes other structure of 18 mm. Individual reports normal. Recommend further testing. "
   },
   {
-    "uid":"Task104_case377",
+    "uid":"Task104_Example_ml_bin_clf_case377",
+    "center":"0",
     "text":"Subject describes shortness of breath, likely viral infection. Subject describes normal of 15 mm. Individual reports normal. Patient presents with other structure. Subject describes lesion of 9.1 cm. Case involves lesion of 16 mm. Subject describes normal. Subject describes normal. Individual reports lesion of 16 mm. Subject describes lesion. Case involves normal of 4.9 cm. Subject describes other structure of 15 cm. Subject describes normal. Recommend further testing. "
   },
   {
-    "uid":"Task104_case381",
+    "uid":"Task104_Example_ml_bin_clf_case381",
+    "center":"1",
     "text":"Individual reports intermittent fever, indication of chronic fatigue syndrome. Case involves normal. Patient presents with other structure of 11 mm. Individual reports lesion of 10 mm. Individual reports lesion of 11 mm. Case involves other structure. Patient presents with normal of 12 mm. Subject describes lesion of 14 cm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case384",
+    "uid":"Task104_Example_ml_bin_clf_case384",
+    "center":"0",
     "text":"Case involves shortness of breath, indication of chronic fatigue syndrome. Individual reports normal of 12 cm. Case involves normal of 18 mm. Patient presents with normal of 19 mm. Individual reports normal. Patient presents with normal. Individual reports lesion. Patient presents with normal. Patient presents with normal of 15 mm. Patient presents with lesion of 1.2 cm. Patient presents with other structure. Subject describes lesion of 20 cm. Individual reports lesion. Case involves normal of 13 mm. Subject describes normal of 11 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case388",
+    "uid":"Task104_Example_ml_bin_clf_case388",
+    "center":"1",
     "text":"Case involves sudden weight loss, possible bacterial infection. Individual reports lesion of 14 mm. Patient presents with lesion. Subject describes other structure of 2.8 cm. Individual reports other structure of 16 mm. Subject describes normal of 3.9 cm. Subject describes lesion of 14 cm. Patient presents with normal of 11 mm. Individual reports normal of 12 mm. Case involves lesion of 3.8 cm. Subject describes other structure. Individual reports lesion. Subject describes lesion. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case391",
+    "uid":"Task104_Example_ml_bin_clf_case391",
+    "center":"0",
     "text":"Case involves chronic fatigue, early signs of diabetes. Subject describes normal of 14 mm. Case involves lesion of 11 mm. Patient presents with normal. Case involves normal. Subject describes lesion. Case involves other structure. Case involves lesion of 4.7 cm. Individual reports other structure. Patient presents with other structure of 16 mm. Case involves normal of 18 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case394",
+    "uid":"Task104_Example_ml_bin_clf_case394",
+    "center":"0",
     "text":"Subject describes sudden weight loss, symptoms of seasonal allergies. Subject describes lesion of 19 mm. Patient presents with other structure. Case involves normal of 17 mm. Case involves normal. Individual reports lesion of 11 cm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case406",
+    "uid":"Task104_Example_ml_bin_clf_case406",
+    "center":"1",
     "text":"Subject describes shortness of breath, symptoms of seasonal allergies. Case involves normal of 14 mm. Individual reports other structure of 12 mm. Subject describes normal of 4.8 cm. Case involves normal of 12 cm. Individual reports other structure of 6.8 cm. Case involves normal of 15 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case408",
+    "uid":"Task104_Example_ml_bin_clf_case408",
+    "center":"0",
     "text":"Subject describes persistent cough, possible bacterial infection. Individual reports normal of 12 mm. Subject describes other structure of 18 mm. Individual reports lesion of 2.3 cm. Subject describes normal. Patient presents with normal. Individual reports normal of 5.6 cm. Case involves normal of 7.7 cm. Subject describes lesion of 4.0 cm. Individual reports normal. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case409",
+    "uid":"Task104_Example_ml_bin_clf_case409",
+    "center":"1",
     "text":"Subject describes chronic fatigue, indication of chronic fatigue syndrome. Case involves lesion. Patient presents with lesion of 10.0 cm. Subject describes normal of 11 mm. Case involves lesion. Case involves normal. Individual reports lesion. Patient presents with normal. Case involves other structure of 16 mm. Case involves lesion of 18 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case410",
+    "uid":"Task104_Example_ml_bin_clf_case410",
+    "center":"0",
     "text":"Case involves persistent cough, early signs of diabetes. Patient presents with other structure of 15 mm. Patient presents with lesion of 20 mm. Individual reports normal. Subject describes lesion of 17 mm. Patient presents with lesion. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case414",
+    "uid":"Task104_Example_ml_bin_clf_case414",
+    "center":"1",
     "text":"Patient presents with severe headaches, possible bacterial infection. Subject describes normal of 19 mm. Patient presents with other structure. Individual reports lesion of 10 mm. Subject describes other structure. Patient presents with normal of 11 mm. Subject describes lesion. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case415",
+    "uid":"Task104_Example_ml_bin_clf_case415",
+    "center":"0",
     "text":"Individual reports persistent cough, early signs of diabetes. Individual reports normal of 10 cm. Patient presents with other structure of 14 mm. Subject describes normal. Individual reports other structure of 19 mm. Patient presents with lesion of 17 mm. Subject describes lesion. Patient presents with lesion. Case involves other structure. Individual reports normal of 13 mm. Individual reports lesion of 15 cm. Individual reports normal. Subject describes normal of 6.2 cm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case417",
+    "uid":"Task104_Example_ml_bin_clf_case417",
+    "center":"1",
     "text":"Subject describes intermittent fever, indication of chronic fatigue syndrome. Patient presents with lesion. Individual reports lesion. Individual reports normal. Individual reports lesion of 15 cm. Individual reports normal of 15 mm. Case involves lesion of 13 cm. Case involves normal of 10 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case423",
+    "uid":"Task104_Example_ml_bin_clf_case423",
+    "center":"0",
     "text":"Case involves mild to moderate chest pain, indication of chronic fatigue syndrome. Case involves other structure. Individual reports normal. Patient presents with other structure of 18 mm. Patient presents with lesion of 12 mm. Patient presents with other structure of 18 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case426",
+    "uid":"Task104_Example_ml_bin_clf_case426",
+    "center":"1",
     "text":"Case involves sudden weight loss, indication of chronic fatigue syndrome. Patient presents with normal of 14 mm. Patient presents with normal of 10 mm. Case involves other structure. Individual reports lesion of 18 mm. Case involves other structure of 15 mm. Case involves normal of 19 mm. Individual reports normal of 10 mm. Individual reports normal of 17 mm. Patient presents with normal of 19 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case431",
+    "uid":"Task104_Example_ml_bin_clf_case431",
+    "center":"0",
     "text":"Individual reports persistent cough, early signs of diabetes. Patient presents with lesion of 19 mm. Subject describes normal. Case involves lesion of 14 mm. Individual reports normal. Subject describes other structure of 12 mm. Subject describes lesion of 3.7 cm. Subject describes other structure of 16 mm. Individual reports normal of 15 mm. Individual reports other structure of 3.7 cm. Case involves other structure of 12 mm. Patient presents with lesion of 12 mm. Case involves other structure. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case433",
+    "uid":"Task104_Example_ml_bin_clf_case433",
+    "center":"1",
     "text":"Case involves severe headaches, likely viral infection. Case involves lesion of 10 mm. Individual reports lesion. Individual reports lesion. Case involves normal. Individual reports other structure of 15 mm. Individual reports lesion of 17 mm. Patient presents with lesion. Patient presents with normal of 17 mm. Subject describes other structure of 20 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case438",
+    "uid":"Task104_Example_ml_bin_clf_case438",
+    "center":"1",
     "text":"Patient presents with shortness of breath, indication of chronic fatigue syndrome. Case involves lesion of 1.5 cm. Individual reports normal of 13 mm. Individual reports other structure of 18 cm. Individual reports other structure. Case involves normal of 12 mm. Subject describes lesion of 13 mm. Patient presents with other structure. Case involves lesion of 15 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case440",
+    "uid":"Task104_Example_ml_bin_clf_case440",
+    "center":"1",
     "text":"Case involves intermittent fever, early signs of diabetes. Subject describes normal of 13 mm. Subject describes normal of 15 cm. Individual reports lesion of 19 cm. Case involves other structure of 16 mm. Individual reports other structure of 16 mm. Subject describes normal of 12 mm. Recommend further testing. "
   },
   {
-    "uid":"Task104_case450",
+    "uid":"Task104_Example_ml_bin_clf_case450",
+    "center":"0",
     "text":"Subject describes shortness of breath, early signs of diabetes. Patient presents with other structure. Patient presents with other structure. Individual reports lesion. Subject describes normal. Subject describes lesion of 18 cm. Patient presents with normal of 15 mm. Patient presents with other structure of 20 mm. Subject describes normal. Case involves normal. Case involves normal of 8.7 cm. Individual reports lesion. Individual reports lesion of 16 mm. Suggest dietary changes. Advise patient to increase fluid intake. Recommend further testing. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Suggest dietary changes. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Suggest dietary changes. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise regular exercise. Suggest dietary changes. Suggest dietary changes. Recommend further testing. Recommend further testing. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Recommend further testing. Advise regular exercise. Suggest dietary changes. Prescribe rest and over-the-counter medication. Suggest dietary changes. Recommend further testing. Advise regular exercise. Prescribe rest and over-the-counter medication. Advise regular exercise. Recommend further testing. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Suggest dietary changes. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise regular exercise. Recommend further testing. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise regular exercise. Schedule follow-up in two weeks. Advise regular exercise. Advise patient to increase fluid intake. Recommend further testing. Recommend further testing. Schedule follow-up in two weeks. Advise regular exercise. Advise patient to increase fluid intake. Suggest dietary changes. Suggest dietary changes. Recommend further testing. Recommend further testing. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise regular exercise. Advise regular exercise. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Suggest dietary changes. Advise patient to increase fluid intake. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Recommend further testing. Advise regular exercise. Recommend further testing. Schedule follow-up in two weeks. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Recommend further testing. Advise regular exercise. Suggest dietary changes. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Advise regular exercise. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication."
   },
   {
-    "uid":"Task104_case451",
+    "uid":"Task104_Example_ml_bin_clf_case451",
+    "center":"1",
     "text":"Subject describes shortness of breath, potential thyroid disorder. Individual reports lesion. Individual reports normal. Patient presents with lesion of 4.2 cm. Individual reports normal of 20 mm. Subject describes normal. Individual reports normal. Patient presents with normal of 19 mm. Individual reports lesion. Individual reports lesion of 14 mm. Individual reports normal. Individual reports lesion. Case involves normal of 20 mm. Patient presents with normal. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case455",
+    "uid":"Task104_Example_ml_bin_clf_case455",
+    "center":"0",
     "text":"Individual reports mild to moderate chest pain, potential thyroid disorder. Individual reports normal. Subject describes normal. Case involves normal. Case involves other structure. Individual reports lesion. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case461",
+    "uid":"Task104_Example_ml_bin_clf_case461",
+    "center":"1",
     "text":"Individual reports severe headaches, possible bacterial infection. Case involves other structure. Individual reports normal of 11 mm. Case involves normal. Individual reports other structure. Case involves lesion of 14 mm. Individual reports lesion of 11 mm. Case involves other structure of 11 cm. Individual reports normal of 14 mm. Case involves normal. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case464",
+    "uid":"Task104_Example_ml_bin_clf_case464",
+    "center":"0",
     "text":"Subject describes intermittent fever, early signs of diabetes. Subject describes lesion. Individual reports normal. Case involves normal of 5.0 cm. Case involves lesion. Case involves normal. Patient presents with normal. Individual reports lesion. Case involves normal. Subject describes lesion of 10 cm. Individual reports normal. Individual reports normal of 11 cm. Subject describes normal of 11 cm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case465",
+    "uid":"Task104_Example_ml_bin_clf_case465",
+    "center":"1",
     "text":"Case involves severe headaches, indication of chronic fatigue syndrome. Patient presents with normal. Patient presents with normal of 19 mm. Subject describes normal. Case involves lesion. Subject describes lesion of 20 mm. Patient presents with normal of 5.2 cm. Case involves lesion of 10 mm. Subject describes other structure of 11 mm. Individual reports other structure. Subject describes other structure of 7.7 cm. Patient presents with normal. Individual reports lesion of 5.4 cm. Subject describes normal of 20 mm. Individual reports lesion of 15 mm. Schedule follow-up in two weeks. "
   },
   {
-    "uid":"Task104_case470",
+    "uid":"Task104_Example_ml_bin_clf_case470",
+    "center":"0",
     "text":"Patient presents with severe headaches, potential thyroid disorder. Patient presents with normal of 11 mm. Subject describes normal of 15 mm. Individual reports normal. Subject describes lesion of 15 cm. Case involves normal of 17 mm. Case involves normal of 11 mm. Case involves lesion. Subject describes normal of 15 mm. Case involves other structure of 12 mm. Individual reports normal of 14 mm. Case involves normal of 12 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case472",
+    "uid":"Task104_Example_ml_bin_clf_case472",
+    "center":"0",
     "text":"Patient presents with persistent cough, indication of chronic fatigue syndrome. Individual reports normal. Individual reports lesion of 5.1 cm. Case involves other structure of 17 mm. Case involves lesion of 20 mm. Patient presents with lesion. Patient presents with other structure. Patient presents with normal of 12 mm. Individual reports lesion. Case involves normal. Case involves lesion. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case475",
+    "uid":"Task104_Example_ml_bin_clf_case475",
+    "center":"1",
     "text":"Individual reports persistent cough, indication of chronic fatigue syndrome. Subject describes other structure of 6.4 cm. Patient presents with lesion of 15 mm. Individual reports normal. Patient presents with other structure. Subject describes normal of 18 mm. Patient presents with lesion of 15 mm. Case involves normal of 16 cm. Patient presents with other structure of 20 mm. Subject describes lesion of 14 mm. Suggest dietary changes. Advise regular exercise. Recommend further testing. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Advise patient to increase fluid intake. Recommend further testing. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise patient to increase fluid intake. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise regular exercise. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Recommend further testing. Suggest dietary changes. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Schedule follow-up in two weeks. Advise regular exercise. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Recommend further testing. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Advise patient to increase fluid intake. Prescribe rest and over-the-counter medication. Advise patient to increase fluid intake. Schedule follow-up in two weeks. Recommend further testing. Recommend further testing. Recommend further testing. Advise patient to increase fluid intake. Advise patient to increase fluid intake. Advise regular exercise. Advise regular exercise. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Recommend further testing. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Recommend further testing. Schedule follow-up in two weeks. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Advise regular exercise. Advise regular exercise. Prescribe rest and over-the-counter medication. Suggest dietary changes. Suggest dietary changes. Schedule follow-up in two weeks. Suggest dietary changes. Advise patient to increase fluid intake. Suggest dietary changes. Schedule follow-up in two weeks. Schedule follow-up in two weeks. Recommend further testing. Suggest dietary changes. Recommend further testing. Recommend further testing. Suggest dietary changes. Suggest dietary changes. Advise regular exercise. Advise patient to increase fluid intake. Suggest dietary changes. Advise regular exercise. Advise patient to increase fluid intake. Advise regular exercise. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Schedule follow-up in two weeks. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Prescribe rest and over-the-counter medication. Suggest dietary changes. Advise patient to increase fluid intake. Suggest dietary changes. Advise regular exercise. Suggest dietary changes. Advise regular exercise. Schedule follow-up in two weeks. Advise regular exercise. Advise regular exercise. Advise regular exercise. Advise regular exercise. Schedule follow-up in two weeks. Suggest dietary changes. Schedule follow-up in two weeks. Advise regular exercise. Suggest dietary changes. Advise patient to increase fluid intake."
   },
   {
-    "uid":"Task104_case477",
+    "uid":"Task104_Example_ml_bin_clf_case477",
+    "center":"0",
     "text":"Case involves chronic fatigue, symptoms of seasonal allergies. Individual reports normal. Individual reports normal of 13 cm. Individual reports normal of 15 mm. Subject describes other structure of 13 mm. Case involves normal. Subject describes normal of 11 mm. Patient presents with lesion of 12 mm. Individual reports other structure. Patient presents with other structure. Individual reports other structure. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case479",
+    "uid":"Task104_Example_ml_bin_clf_case479",
+    "center":"0",
     "text":"Patient presents with persistent cough, indication of chronic fatigue syndrome. Case involves lesion. Case involves normal of 17 mm. Individual reports normal. Subject describes normal of 19 mm. Individual reports lesion of 17 cm. Patient presents with normal. Patient presents with other structure. Patient presents with lesion. Subject describes lesion. Patient presents with normal. Case involves normal of 20 mm. Patient presents with normal of 10 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case483",
+    "uid":"Task104_Example_ml_bin_clf_case483",
+    "center":"1",
     "text":"Patient presents with mild to moderate chest pain, indication of chronic fatigue syndrome. Subject describes lesion of 18 mm. Subject describes lesion of 15 mm. Patient presents with normal of 12 mm. Subject describes lesion. Patient presents with normal. Patient presents with normal of 11 mm. Case involves other structure of 10 mm. Subject describes lesion. Subject describes lesion of 16 mm. Case involves lesion of 12 mm. Subject describes other structure of 19 mm. Suggest dietary changes. "
   },
   {
-    "uid":"Task104_case485",
+    "uid":"Task104_Example_ml_bin_clf_case485",
+    "center":"0",
     "text":"Patient presents with mild to moderate chest pain, possible bacterial infection. Case involves normal of 6.2 cm. Patient presents with other structure. Case involves lesion of 14 mm. Subject describes normal of 19 mm. Patient presents with lesion of 14 mm. Case involves normal. Individual reports normal of 1.6 cm. Patient presents with lesion of 15 mm. Subject describes other structure of 10 cm. Subject describes normal of 18 mm. Individual reports lesion of 18 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case490",
+    "uid":"Task104_Example_ml_bin_clf_case490",
+    "center":"0",
     "text":"Case involves intermittent fever, early signs of diabetes. Case involves normal of 14 cm. Patient presents with normal. Case involves normal of 13 mm. Individual reports other structure. Patient presents with normal of 14 mm. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case491",
+    "uid":"Task104_Example_ml_bin_clf_case491",
+    "center":"0",
     "text":"Individual reports persistent cough, symptoms of seasonal allergies. Individual reports normal of 16 mm. Case involves normal. Case involves normal. Patient presents with normal. Patient presents with lesion of 12 mm. Case involves normal. Subject describes normal. Case involves lesion of 2.6 cm. Case involves normal. Advise patient to increase fluid intake. "
   },
   {
-    "uid":"Task104_case494",
+    "uid":"Task104_Example_ml_bin_clf_case494",
+    "center":"1",
     "text":"Patient presents with intermittent fever, early signs of diabetes. Individual reports normal of 13 cm. Subject describes normal. Patient presents with other structure of 11 mm. Subject describes lesion of 17 mm. Individual reports normal of 11 mm. Subject describes normal of 17 mm. Subject describes other structure of 11 mm. Patient presents with normal. Patient presents with lesion of 11 mm. Case involves normal of 11 cm. Case involves normal of 13 mm. Subject describes normal of 20 mm. Prescribe rest and over-the-counter medication. "
   },
   {
-    "uid":"Task104_case495",
+    "uid":"Task104_Example_ml_bin_clf_case495",
+    "center":"0",
     "text":"Individual reports shortness of breath, possible bacterial infection. Subject describes normal of 13 cm. Individual reports lesion of 9.7 cm. Subject describes normal of 13 mm. Patient presents with normal. Case involves lesion. Individual reports lesion of 18 mm. Individual reports lesion of 11 mm. Advise regular exercise. "
   },
   {
-    "uid":"Task104_case497",
+    "uid":"Task104_Example_ml_bin_clf_case497",
+    "center":"1",
     "text":"Patient presents with persistent cough, likely viral infection. Subject describes normal of 19 mm. Individual reports lesion of 13 cm. Patient presents with normal of 12 mm. Subject describes normal. Subject describes normal of 9.6 cm. Subject describes lesion. Individual reports lesion. Case involves normal of 19 cm. Individual reports normal of 15 mm. Case involves normal. Patient presents with normal. Subject describes normal of 11 mm. Patient presents with normal of 12 mm. Subject describes lesion of 11 mm. Schedule follow-up in two weeks. "
   }
 ]
