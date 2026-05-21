@@ -1,6 +1,6 @@
 {
   "federation_config": {
-    "num_rounds": 5
+    "num_rounds": 15
   },
   "model_kwargs": {
     "model_name_or_path": "joeranbosma/dragon-bert-base-mixed-domain",
@@ -12,7 +12,7 @@
     "lr_scheduler_type": "constant",
     "save_total_limit": 1,
     "warmup_ratio": 0,
-    "num_train_epochs": 3,
+    "num_train_epochs": 1,
     "disable_tqdm": true
   },
   "backend_config": {
